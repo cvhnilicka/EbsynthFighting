@@ -1,0 +1,1484 @@
+fileFormatVersion: 2
+guid: b884a4eb488a84652b71a5ef40c12202
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6634026232451678841
+    second: knight-forwardsv0-sheet_0
+  - first:
+      213: 6499716776070603144
+    second: knight-forwardsv0-sheet_1
+  - first:
+      213: 3203026389229113703
+    second: knight-forwardsv0-sheet_2
+  - first:
+      213: -5157391489439740910
+    second: knight-forwardsv0-sheet_3
+  - first:
+      213: 3950232450534162457
+    second: knight-forwardsv0-sheet_4
+  - first:
+      213: 8927606868369351199
+    second: knight-forwardsv0-sheet_5
+  - first:
+      213: -4529477964762484703
+    second: knight-forwardsv0-sheet_6
+  - first:
+      213: 8244699340227742439
+    second: knight-forwardsv0-sheet_7
+  - first:
+      213: -6258518198503642738
+    second: knight-forwardsv0-sheet_8
+  - first:
+      213: -1388557050952709205
+    second: knight-forwardsv0-sheet_9
+  - first:
+      213: 7547961578716506011
+    second: knight-forwardsv0-sheet_10
+  - first:
+      213: 6618682519297107104
+    second: knight-forwardsv0-sheet_11
+  - first:
+      213: -5920339517328822907
+    second: knight-forwardsv0-sheet_12
+  - first:
+      213: 3399182434781973400
+    second: knight-forwardsv0-sheet_13
+  - first:
+      213: 448137902119084323
+    second: knight-forwardsv0-sheet_14
+  - first:
+      213: -7024033165373320461
+    second: knight-forwardsv0-sheet_15
+  - first:
+      213: 3808849569251650946
+    second: knight-forwardsv0-sheet_16
+  - first:
+      213: 7146894377479846457
+    second: knight-forwardsv0-sheet_17
+  - first:
+      213: -7167704582866183984
+    second: knight-forwardsv0-sheet_18
+  - first:
+      213: -7692367757885814457
+    second: knight-forwardsv0-sheet_19
+  - first:
+      213: 3554958491637448999
+    second: knight-forwardsv0-sheet_20
+  - first:
+      213: -3996880104118575500
+    second: knight-forwardsv0-sheet_21
+  - first:
+      213: -1390157929104288767
+    second: knight-forwardsv0-sheet_22
+  - first:
+      213: -4130899243685479934
+    second: knight-forwardsv0-sheet_23
+  - first:
+      213: 131335120266573204
+    second: knight-forwardsv0-sheet_24
+  - first:
+      213: 9074029092039169085
+    second: knight-forwardsv0-sheet_25
+  - first:
+      213: -4965220026984423177
+    second: knight-forwardsv0-sheet_26
+  - first:
+      213: -4317440741687794925
+    second: knight-forwardsv0-sheet_27
+  - first:
+      213: -8654921232627316217
+    second: knight-forwardsv0-sheet_28
+  - first:
+      213: -897035809427919717
+    second: knight-forwardsv0-sheet_29
+  - first:
+      213: -2230285060105897994
+    second: knight-forwardsv0-sheet_30
+  - first:
+      213: 1706657137595065045
+    second: knight-forwardsv0-sheet_31
+  - first:
+      213: 2147691601686027183
+    second: knight-forwardsv0-sheet_32
+  - first:
+      213: -4593687170057163495
+    second: knight-forwardsv0-sheet_33
+  - first:
+      213: 8473248786186138325
+    second: knight-forwardsv0-sheet_34
+  - first:
+      213: -2124353581077050081
+    second: knight-forwardsv0-sheet_35
+  - first:
+      213: 6176794830664441677
+    second: knight-forwardsv0-sheet_36
+  - first:
+      213: -3733535629373948269
+    second: knight-forwardsv0-sheet_37
+  - first:
+      213: 6829772076667861899
+    second: knight-forwardsv0-sheet_38
+  - first:
+      213: 4843021538514204700
+    second: knight-forwardsv0-sheet_39
+  - first:
+      213: 8902999953284123967
+    second: knight-forwardsv0-sheet_40
+  - first:
+      213: 6510432698745289277
+    second: knight-forwardsv0-sheet_41
+  - first:
+      213: -5521776011126897645
+    second: knight-forwardsv0-sheet_42
+  - first:
+      213: -1922784175674782560
+    second: knight-forwardsv0-sheet_43
+  - first:
+      213: -6410788892626968931
+    second: knight-forwardsv0-sheet_44
+  - first:
+      213: -3188364689484791719
+    second: knight-forwardsv0-sheet_45
+  - first:
+      213: 3962381478308004933
+    second: knight-forwardsv0-sheet_46
+  - first:
+      213: -7355516569937688191
+    second: knight-forwardsv0-sheet_47
+  - first:
+      213: 3024149750056624921
+    second: knight-forwardsv0-sheet_48
+  - first:
+      213: 5519360572179661743
+    second: knight-forwardsv0-sheet_49
+  - first:
+      213: 8377531047236969611
+    second: knight-forwardsv0-sheet_50
+  - first:
+      213: 517235215956393778
+    second: knight-forwardsv0-sheet_51
+  - first:
+      213: -8762856997110720615
+    second: knight-forwardsv0-sheet_52
+  - first:
+      213: 8561840384146360837
+    second: knight-forwardsv0-sheet_53
+  - first:
+      213: 6810791095867131945
+    second: knight-forwardsv0-sheet_54
+  - first:
+      213: 5838146163159554269
+    second: knight-forwardsv0-sheet_55
+  - first:
+      213: -940721840599084759
+    second: knight-forwardsv0-sheet_56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 216
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1789
+        width: 149
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972c7e7b5bbc01c50800000000000000
+      internalID: 6634026232451678841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1789
+        width: 149
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881e55a88f1a33a50800000000000000
+      internalID: 6499716776070603144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1789
+        width: 149
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7611438d78f637c20800000000000000
+      internalID: 3203026389229113703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1789
+        width: 149
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c4250f3c34d68b0800000000000000
+      internalID: -5157391489439740910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1789
+        width: 149
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9104f4a0c7b02d630800000000000000
+      internalID: 3950232450534162457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1789
+        width: 148
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f122e73752b35eb70800000000000000
+      internalID: 8927606868369351199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1782
+        width: 135
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1207f5c0acf0421c0800000000000000
+      internalID: -4529477964762484703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1970
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea0c2e1e5e0b6270800000000000000
+      internalID: 8244699340227742439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1786
+        width: 130
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e896fd58bd64529a0800000000000000
+      internalID: -6258518198503642738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1971
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab899318badabce0800000000000000
+      internalID: -1388557050952709205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1785
+        width: 123
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97a1b5a01fbfb860800000000000000
+      internalID: 7547961578716506011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1971
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4aacb1fa84adb50800000000000000
+      internalID: 6618682519297107104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1882
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d68e7839ab6dda0800000000000000
+      internalID: -5920339517328822907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1881
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b4def2a625c2f20800000000000000
+      internalID: 3399182434781973400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1782
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32162323c0b183600800000000000000
+      internalID: 448137902119084323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1782
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f25c5f0d0f958e90800000000000000
+      internalID: -7024033165373320461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1499
+        width: 118
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28de42ac080cbd430800000000000000
+      internalID: 3808849569251650946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1689
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a3ce8029ede2360800000000000000
+      internalID: 7146894377479846457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1499
+        width: 112
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8525378a2378c90800000000000000
+      internalID: -7167704582866183984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1690
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7494c85b7483f3590800000000000000
+      internalID: -7692367757885814457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1499
+        width: 107
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7210f45c9efb55130800000000000000
+      internalID: 3554958491637448999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1690
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e9f20c8ba3888c0800000000000000
+      internalID: -3996880104118575500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1505
+        width: 136
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104db069aba25bce0800000000000000
+      internalID: -1390157929104288767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1504
+        width: 137
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a723936091ca6c0800000000000000
+      internalID: -4130899243685479934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1503
+        width: 136
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495b506989892d100800000000000000
+      internalID: 131335120266573204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1503
+        width: 136
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d341e88026d6ded70800000000000000
+      internalID: 9074029092039169085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1502
+        width: 157
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f020fb31bef71bb0800000000000000
+      internalID: -4965220026984423177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1498
+        width: 129
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31366ec258e5514c0800000000000000
+      internalID: -4317440741687794925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1525
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a4342aefa83e780800000000000000
+      internalID: -8654921232627316217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1525
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c6e3c1fa61d83f0800000000000000
+      internalID: -897035809427919717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1525
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7f68ced8f6c01e0800000000000000
+      internalID: -2230285060105897994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1525
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d22db7df934fa710800000000000000
+      internalID: 1706657137595065045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1215
+        width: 129
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabd59df1222ecd10800000000000000
+      internalID: 2147691601686027183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1214
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d29737bd1ff30c0800000000000000
+      internalID: -4593687170057163495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1214
+        width: 127
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2722ab0e6079570800000000000000
+      internalID: 8473248786186138325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1214
+        width: 127
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dc29e5ca7c482e0800000000000000
+      internalID: -2124353581077050081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1214
+        width: 126
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f19342c2268b550800000000000000
+      internalID: 6176794830664441677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1214
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eb6ee4021df2cc0800000000000000
+      internalID: -3733535629373948269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1214
+        width: 105
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b7bae948938ce50800000000000000
+      internalID: 6829772076667861899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1214
+        width: 105
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1874ba0e6ed53340800000000000000
+      internalID: 4843021538514204700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1214
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dc1d2994fcd8b70800000000000000
+      internalID: 8902999953284123967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 931
+        width: 105
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3afcc6bb04b95a50800000000000000
+      internalID: 6510432698745289277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 931
+        width: 106
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314028739f5be53b0800000000000000
+      internalID: -5521776011126897645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 933
+        width: 131
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac8925caf5e055e0800000000000000
+      internalID: -1922784175674782560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 933
+        width: 130
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e13fcc77d4807a0800000000000000
+      internalID: -6410788892626968931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 933
+        width: 130
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9504cd42537a0c3d0800000000000000
+      internalID: -3188364689484791719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 933
+        width: 129
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544c22ff5f43df630800000000000000
+      internalID: 3962381478308004933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 931
+        width: 123
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1894d5d96a4fbe990800000000000000
+      internalID: -7355516569937688191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 931
+        width: 124
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91326bfcc20f7f920800000000000000
+      internalID: 3024149750056624921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 931
+        width: 124
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3c0149235b89c40800000000000000
+      internalID: 5519360572179661743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 648
+        width: 128
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84ad55f918f24470800000000000000
+      internalID: 8377531047236969611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 648
+        width: 130
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f376040b69d2700800000000000000
+      internalID: 517235215956393778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 814
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9975bad1df3146680800000000000000
+      internalID: -8762856997110720615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 648
+        width: 124
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a43a08774c1d670800000000000000
+      internalID: 8561840384146360837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 650
+        width: 123
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928cd84aa6ac48e50800000000000000
+      internalID: 6810791095867131945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 650
+        width: 122
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd85fe9e003450150800000000000000
+      internalID: 5838146163159554269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-forwardsv0-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 650
+        width: 122
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921d3aa5872e1f2f0800000000000000
+      internalID: -940721840599084759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

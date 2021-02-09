@@ -1,0 +1,2684 @@
+fileFormatVersion: 2
+guid: 4a1f8e2bb60544f3990011fc37f60e6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6158827764878569806
+    second: rockman-idlev0-sheet_0
+  - first:
+      213: -9108260339892261141
+    second: rockman-idlev0-sheet_1
+  - first:
+      213: 630213928587228088
+    second: rockman-idlev0-sheet_2
+  - first:
+      213: 7192700243728561568
+    second: rockman-idlev0-sheet_3
+  - first:
+      213: -4396003914357592200
+    second: rockman-idlev0-sheet_4
+  - first:
+      213: -5270628794214521625
+    second: rockman-idlev0-sheet_5
+  - first:
+      213: -5125328194372186443
+    second: rockman-idlev0-sheet_6
+  - first:
+      213: -3205755984127799041
+    second: rockman-idlev0-sheet_7
+  - first:
+      213: 5560360192634343731
+    second: rockman-idlev0-sheet_8
+  - first:
+      213: 748629200677742930
+    second: rockman-idlev0-sheet_9
+  - first:
+      213: 8801281602254733564
+    second: rockman-idlev0-sheet_10
+  - first:
+      213: 5692451642542095154
+    second: rockman-idlev0-sheet_11
+  - first:
+      213: 6424970487029853682
+    second: rockman-idlev0-sheet_12
+  - first:
+      213: 8787314891567926258
+    second: rockman-idlev0-sheet_13
+  - first:
+      213: 7403771188781443725
+    second: rockman-idlev0-sheet_14
+  - first:
+      213: -2268166805455918270
+    second: rockman-idlev0-sheet_15
+  - first:
+      213: 6312512751901474004
+    second: rockman-idlev0-sheet_16
+  - first:
+      213: -2377975390981642945
+    second: rockman-idlev0-sheet_17
+  - first:
+      213: 2969352904772558360
+    second: rockman-idlev0-sheet_18
+  - first:
+      213: -3792011971040464846
+    second: rockman-idlev0-sheet_19
+  - first:
+      213: -6354599450507383255
+    second: rockman-idlev0-sheet_20
+  - first:
+      213: 1314418988576626706
+    second: rockman-idlev0-sheet_21
+  - first:
+      213: 7534311128216303937
+    second: rockman-idlev0-sheet_22
+  - first:
+      213: -1779263709984409114
+    second: rockman-idlev0-sheet_23
+  - first:
+      213: 4972526198529607365
+    second: rockman-idlev0-sheet_24
+  - first:
+      213: -4534592999086722447
+    second: rockman-idlev0-sheet_25
+  - first:
+      213: 6731771890380645995
+    second: rockman-idlev0-sheet_26
+  - first:
+      213: 7058559933934704488
+    second: rockman-idlev0-sheet_27
+  - first:
+      213: -4673790005666014088
+    second: rockman-idlev0-sheet_28
+  - first:
+      213: 2939196536459197896
+    second: rockman-idlev0-sheet_29
+  - first:
+      213: 4999414811427158924
+    second: rockman-idlev0-sheet_30
+  - first:
+      213: -3430042013064778485
+    second: rockman-idlev0-sheet_31
+  - first:
+      213: -6743293075746098927
+    second: rockman-idlev0-sheet_32
+  - first:
+      213: -4972654151026167268
+    second: rockman-idlev0-sheet_33
+  - first:
+      213: 4381519543874537194
+    second: rockman-idlev0-sheet_34
+  - first:
+      213: -2451379270170062700
+    second: rockman-idlev0-sheet_35
+  - first:
+      213: 8763209092601755680
+    second: rockman-idlev0-sheet_36
+  - first:
+      213: -5664107889883950487
+    second: rockman-idlev0-sheet_37
+  - first:
+      213: 2873946296480568731
+    second: rockman-idlev0-sheet_38
+  - first:
+      213: -6903094200221739913
+    second: rockman-idlev0-sheet_39
+  - first:
+      213: 26056616457892098
+    second: rockman-idlev0-sheet_40
+  - first:
+      213: 54786669761581311
+    second: rockman-idlev0-sheet_41
+  - first:
+      213: 8571108703103146057
+    second: rockman-idlev0-sheet_42
+  - first:
+      213: -1392630670424772472
+    second: rockman-idlev0-sheet_43
+  - first:
+      213: 4443805883155889772
+    second: rockman-idlev0-sheet_44
+  - first:
+      213: -5514054018471207414
+    second: rockman-idlev0-sheet_45
+  - first:
+      213: 8575371717844895492
+    second: rockman-idlev0-sheet_46
+  - first:
+      213: -6157468970086513635
+    second: rockman-idlev0-sheet_47
+  - first:
+      213: -4186867938839478896
+    second: rockman-idlev0-sheet_48
+  - first:
+      213: 4066322343300553745
+    second: rockman-idlev0-sheet_49
+  - first:
+      213: 6525510942919644551
+    second: rockman-idlev0-sheet_50
+  - first:
+      213: 8025268425189330623
+    second: rockman-idlev0-sheet_51
+  - first:
+      213: -2054495985411656862
+    second: rockman-idlev0-sheet_52
+  - first:
+      213: 4394000402207271811
+    second: rockman-idlev0-sheet_53
+  - first:
+      213: -569529759338557531
+    second: rockman-idlev0-sheet_54
+  - first:
+      213: -460311448613917979
+    second: rockman-idlev0-sheet_55
+  - first:
+      213: -9195004726778020254
+    second: rockman-idlev0-sheet_56
+  - first:
+      213: -8889212335171263281
+    second: rockman-idlev0-sheet_57
+  - first:
+      213: 8505679366915661168
+    second: rockman-idlev0-sheet_58
+  - first:
+      213: -2956229600647574352
+    second: rockman-idlev0-sheet_59
+  - first:
+      213: 1898926040589762888
+    second: rockman-idlev0-sheet_60
+  - first:
+      213: -5883426492246163380
+    second: rockman-idlev0-sheet_61
+  - first:
+      213: 4799349868555174287
+    second: rockman-idlev0-sheet_62
+  - first:
+      213: 583641109932051050
+    second: rockman-idlev0-sheet_63
+  - first:
+      213: 4376377856748805564
+    second: rockman-idlev0-sheet_64
+  - first:
+      213: -6308744638921035492
+    second: rockman-idlev0-sheet_65
+  - first:
+      213: -4932314252588776985
+    second: rockman-idlev0-sheet_66
+  - first:
+      213: 6460755792441804509
+    second: rockman-idlev0-sheet_67
+  - first:
+      213: -3260050932091098449
+    second: rockman-idlev0-sheet_68
+  - first:
+      213: -7046185231694797018
+    second: rockman-idlev0-sheet_69
+  - first:
+      213: 3215264580370304399
+    second: rockman-idlev0-sheet_70
+  - first:
+      213: -6568562439776963182
+    second: rockman-idlev0-sheet_71
+  - first:
+      213: -1897698587245399857
+    second: rockman-idlev0-sheet_72
+  - first:
+      213: 40773502542151348
+    second: rockman-idlev0-sheet_73
+  - first:
+      213: 8554047296483263148
+    second: rockman-idlev0-sheet_74
+  - first:
+      213: 2304403914570994349
+    second: rockman-idlev0-sheet_75
+  - first:
+      213: 204900850497777051
+    second: rockman-idlev0-sheet_76
+  - first:
+      213: 3546880274762940167
+    second: rockman-idlev0-sheet_77
+  - first:
+      213: 7392010563487141157
+    second: rockman-idlev0-sheet_78
+  - first:
+      213: 3746219583951634309
+    second: rockman-idlev0-sheet_79
+  - first:
+      213: -835212913324204352
+    second: rockman-idlev0-sheet_80
+  - first:
+      213: 1424577164050850983
+    second: rockman-idlev0-sheet_81
+  - first:
+      213: -5225123462112635472
+    second: rockman-idlev0-sheet_82
+  - first:
+      213: -2602692845320603775
+    second: rockman-idlev0-sheet_83
+  - first:
+      213: -5036223736510243732
+    second: rockman-idlev0-sheet_84
+  - first:
+      213: 7511442636877270821
+    second: rockman-idlev0-sheet_85
+  - first:
+      213: 3351477660225102792
+    second: rockman-idlev0-sheet_86
+  - first:
+      213: 215856031510875188
+    second: rockman-idlev0-sheet_87
+  - first:
+      213: -3486303972217397490
+    second: rockman-idlev0-sheet_88
+  - first:
+      213: 136777495691625947
+    second: rockman-idlev0-sheet_89
+  - first:
+      213: 4916490653385118164
+    second: rockman-idlev0-sheet_90
+  - first:
+      213: -9111285528208696174
+    second: rockman-idlev0-sheet_91
+  - first:
+      213: -2280775129993382378
+    second: rockman-idlev0-sheet_92
+  - first:
+      213: 7072639798795854655
+    second: rockman-idlev0-sheet_93
+  - first:
+      213: -126295997510471951
+    second: rockman-idlev0-sheet_94
+  - first:
+      213: -4984176395880874059
+    second: rockman-idlev0-sheet_95
+  - first:
+      213: 2631810026966928403
+    second: rockman-idlev0-sheet_96
+  - first:
+      213: 6472756149433564898
+    second: rockman-idlev0-sheet_97
+  - first:
+      213: -87228008054881436
+    second: rockman-idlev0-sheet_98
+  - first:
+      213: -2541027834100046255
+    second: rockman-idlev0-sheet_99
+  - first:
+      213: -2950703699743552133
+    second: rockman-idlev0-sheet_100
+  - first:
+      213: -8338662461907882692
+    second: rockman-idlev0-sheet_101
+  - first:
+      213: -9176775299143017939
+    second: rockman-idlev0-sheet_102
+  - first:
+      213: -1420271521846558990
+    second: rockman-idlev0-sheet_103
+  - first:
+      213: -4525113375331492720
+    second: rockman-idlev0-sheet_104
+  - first:
+      213: -6739923276568023736
+    second: rockman-idlev0-sheet_105
+  - first:
+      213: -9077123462312954137
+    second: rockman-idlev0-sheet_106
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 216
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1797
+        width: 170
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e417666a83d887550800000000000000
+      internalID: 6158827764878569806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1797
+        width: 170
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee61fe7a75f89180800000000000000
+      internalID: -9108260339892261141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1797
+        width: 166
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3f1f1aa38feb800800000000000000
+      internalID: 630213928587228088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1797
+        width: 163
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a57e4b53ca91d360800000000000000
+      internalID: 7192700243728561568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1797
+        width: 162
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f2d7d1bb14ef2c0800000000000000
+      internalID: -4396003914357592200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1797
+        width: 162
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4e5e16907fad6b0800000000000000
+      internalID: -5270628794214521625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1797
+        width: 162
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bec621992d2fd8b0800000000000000
+      internalID: -5125328194372186443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1929
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0da71daedd283d0800000000000000
+      internalID: -3205755984127799041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1795
+        width: 172
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3315139922e5a2d40800000000000000
+      internalID: 5560360192634343731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1919
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259a1e6aa4aa36a00800000000000000
+      internalID: 748629200677742930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1795
+        width: 176
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0039e6cfe642a70800000000000000
+      internalID: 8801281602254733564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1919
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b7fc6eb96affe40800000000000000
+      internalID: 5692451642542095154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1795
+        width: 178
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd68c3fd941a2950800000000000000
+      internalID: 6424970487029853682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 1919
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb08613650d2f970800000000000000
+      internalID: 8787314891567926258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 1795
+        width: 178
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ae6995baa7fb660800000000000000
+      internalID: 7403771188781443725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 1795
+        width: 196
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ba775ce4ad580e0800000000000000
+      internalID: -2268166805455918270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 1795
+        width: 194
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcf53917ec8a9750800000000000000
+      internalID: 6312512751901474004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 1795
+        width: 194
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f352bef1bfbbffed0800000000000000
+      internalID: -2377975390981642945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 1795
+        width: 191
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e1ebd0cb2453920800000000000000
+      internalID: 2969352904772558360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 1795
+        width: 188
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230ba1a0431106bc0800000000000000
+      internalID: -3792011971040464846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1795
+        width: 186
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e6d96c77defc7a0800000000000000
+      internalID: -6354599450507383255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 1795
+        width: 180
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21853242b11cd3210800000000000000
+      internalID: 1314418988576626706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1919
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149fa987d004f8860800000000000000
+      internalID: 7534311128216303937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1863
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9b2ac2519ce47e0800000000000000
+      internalID: -1779263709984409114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1863
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c64ea36b36f10540800000000000000
+      internalID: 4972526198529607365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1863
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172767051b3e111c0800000000000000
+      internalID: -4534592999086722447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 1863
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66291b2ede0c6d50800000000000000
+      internalID: 6731771890380645995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1539
+        width: 165
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8679bffacda05f160800000000000000
+      internalID: 7058559933934704488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1539
+        width: 168
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c918da0cc532fb0800000000000000
+      internalID: -4673790005666014088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1539
+        width: 170
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd75b86daf1ac820800000000000000
+      internalID: 2939196536459197896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1539
+        width: 174
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b31ff684d716540800000000000000
+      internalID: 4999414811427158924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1539
+        width: 178
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dab9656fa0660d0800000000000000
+      internalID: -3430042013064778485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1539
+        width: 183
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1117dc3dca20b62a0800000000000000
+      internalID: -6743293075746098927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1539
+        width: 187
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12b63955659dfab0800000000000000
+      internalID: -4972654151026167268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1539
+        width: 191
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6c2159fc84ecc30800000000000000
+      internalID: 4381519543874537194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1539
+        width: 196
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490d1cfaa83fafdd0800000000000000
+      internalID: -2451379270170062700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 1539
+        width: 198
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02830018d3c2d9970800000000000000
+      internalID: 8763209092601755680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 1539
+        width: 200
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962daf542eb0561b0800000000000000
+      internalID: -5664107889883950487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1539
+        width: 200
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9516490eee42e720800000000000000
+      internalID: 2873946296480568731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 1539
+        width: 199
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77459b826684330a0800000000000000
+      internalID: -6903094200221739913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 1539
+        width: 196
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2017508ca529c5000800000000000000
+      internalID: 26056616457892098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 1539
+        width: 194
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0d0959f24a2c000800000000000000
+      internalID: 54786669761581311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 1539
+        width: 192
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948d8bb24f1b2f670800000000000000
+      internalID: 8571108703103146057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 1539
+        width: 188
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8807402a8c16cace0800000000000000
+      internalID: -1392630670424772472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 3691
+        y: 1539
+        width: 186
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e3c4c08e19bad30800000000000000
+      internalID: 4443805883155889772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1277
+        width: 164
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e55bcb5152a73b0800000000000000
+      internalID: -5514054018471207414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1277
+        width: 165
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4078313a427d10770800000000000000
+      internalID: 8575371717844895492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1277
+        width: 170
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14c08a68964c8aa0800000000000000
+      internalID: -6157468970086513635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1277
+        width: 172
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d3008eac145e5c0800000000000000
+      internalID: -4186867938839478896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1277
+        width: 174
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cd9ae70aa7e6830800000000000000
+      internalID: 4066322343300553745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1277
+        width: 178
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78556a201a54f8a50800000000000000
+      internalID: 6525510942919644551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1277
+        width: 182
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe819eec1b7f5f60800000000000000
+      internalID: 8025268425189330623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1417
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263721559c6fc73e0800000000000000
+      internalID: -2054495985411656862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1277
+        width: 184
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bec7cd510aafc30800000000000000
+      internalID: 4394000402207271811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1277
+        width: 190
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af8c9d83bf9818f0800000000000000
+      internalID: -569529759338557531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1277
+        width: 193
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea62532d25ac99f0800000000000000
+      internalID: -460311448613917979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 1279
+        width: 172
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ebb501be7c46080800000000000000
+      internalID: -9195004726778020254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1279
+        width: 174
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4a81d6a7c23a480800000000000000
+      internalID: -8889212335171263281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1279
+        width: 174
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d9066b15e3a0670800000000000000
+      internalID: 8505679366915661168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 1279
+        width: 174
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc08ea47dc59f6d0800000000000000
+      internalID: -2956229600647574352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 1279
+        width: 174
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84187184c275a5a10800000000000000
+      internalID: 1898926040589762888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 1279
+        width: 172
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c408b8be6ced95ea0800000000000000
+      internalID: -5883426492246163380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 1279
+        width: 170
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f818c040747ba9240800000000000000
+      internalID: 4799349868555174287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 1279
+        width: 168
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a80d94f72891800800000000000000
+      internalID: 583641109932051050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 1397
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdd56249740cbc30800000000000000
+      internalID: 4376377856748805564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 1397
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1136721d26d278a0800000000000000
+      internalID: -6308744638921035492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 1397
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e189ddd156ec8bb0800000000000000
+      internalID: -4932314252588776985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 1397
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd68a05a92739a950800000000000000
+      internalID: 6460755792441804509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 1397
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa670323f8f1c2d0800000000000000
+      internalID: -3260050932091098449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 1395
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6276a333ddbe63e90800000000000000
+      internalID: -7046185231694797018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 1397
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d0ed3c91aee9c20800000000000000
+      internalID: 3215264580370304399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 3691
+        y: 1395
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295fe144347c7d4a0800000000000000
+      internalID: -6568562439776963182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 1345
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc03a7870350aa5e0800000000000000
+      internalID: -1897698587245399857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 1345
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bef547d84bd09000800000000000000
+      internalID: 40773502542151348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 1345
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca286c2e1b416b670800000000000000
+      internalID: 8554047296483263148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1137
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2160ba623eaff10800000000000000
+      internalID: 2304403914570994349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1021
+        width: 164
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d6818ec34f7d200800000000000000
+      internalID: 204900850497777051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1137
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fb51651dc093130800000000000000
+      internalID: 3546880274762940167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1021
+        width: 160
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d06946172b59660800000000000000
+      internalID: 7392010563487141157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1137
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f7c000dde3df330800000000000000
+      internalID: 3746219583951634309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1021
+        width: 156
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cedd7dc74ab864f0800000000000000
+      internalID: -835212913324204352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1137
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4626a026d15c310800000000000000
+      internalID: 1424577164050850983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1021
+        width: 152
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5973525e1ac77b0800000000000000
+      internalID: -5225123462112635472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1021
+        width: 174
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187f63795a061ebd0800000000000000
+      internalID: -2602692845320603775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1021
+        width: 176
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c9ae7d13dbb1ab0800000000000000
+      internalID: -5036223736510243732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1021
+        width: 178
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f0bc9e7410e3860800000000000000
+      internalID: 7511442636877270821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1021
+        width: 180
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3ef52dc27d28e20800000000000000
+      internalID: 3351477660225102792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1021
+        width: 182
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cc4d0caefdef200800000000000000
+      internalID: 215856031510875188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1021
+        width: 186
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fd2fc22092e9fc0800000000000000
+      internalID: -3486303972217397490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 1021
+        width: 186
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd587fb586ee5e100800000000000000
+      internalID: 136777495691625947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 1021
+        width: 190
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d15c885332ea3440800000000000000
+      internalID: 4916490653385118164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 1021
+        width: 192
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c96f3f5163e8180800000000000000
+      internalID: -9111285528208696174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 1021
+        width: 192
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616f2347a1f0950e0800000000000000
+      internalID: -2280775129993382378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 1021
+        width: 192
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33648fac60172260800000000000000
+      internalID: 7072639798795854655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 3251
+        y: 1021
+        width: 192
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fea5db957e4f3ef0800000000000000
+      internalID: -126295997510471951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 1021
+        width: 190
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf32a9a9f5a4dab0800000000000000
+      internalID: -4984176395880874059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_96
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 1021
+        width: 188
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cccad8641168420800000000000000
+      internalID: 2631810026966928403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_97
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 763
+        width: 146
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee76bc7c69d3d950800000000000000
+      internalID: 6472756149433564898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_98
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 763
+        width: 149
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4638c6db69a1acef0800000000000000
+      internalID: -87228008054881436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_99
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 763
+        width: 148
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1562618d5a47cbcd0800000000000000
+      internalID: -2541027834100046255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_100
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 763
+        width: 152
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dca5b5e9efc07d0800000000000000
+      internalID: -2950703699743552133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_101
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 763
+        width: 154
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3da818cbae174c80800000000000000
+      internalID: -8338662461907882692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_102
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 763
+        width: 158
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a500f6c7b85a080800000000000000
+      internalID: -9176775299143017939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_103
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 763
+        width: 160
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe7bb7639e2a4ce0800000000000000
+      internalID: -1420271521846558990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_104
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 763
+        width: 164
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c5ff63c519331c0800000000000000
+      internalID: -4525113375331492720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_105
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 763
+        width: 165
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84da6c65d7bf672a0800000000000000
+      internalID: -6739923276568023736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-idlev0-sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 763
+        width: 168
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6f87ebd44970280800000000000000
+      internalID: -9077123462312954137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

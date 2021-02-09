@@ -1,0 +1,2780 @@
+fileFormatVersion: 2
+guid: 07d3ce776780c49a1acfae0a9e40fb31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7864465845440321237
+    second: heavy-sheet-v1_0
+  - first:
+      213: -6578370265619345171
+    second: heavy-sheet-v1_1
+  - first:
+      213: -7172504541272240552
+    second: heavy-sheet-v1_2
+  - first:
+      213: -967855121265925213
+    second: heavy-sheet-v1_3
+  - first:
+      213: -5341139345661545506
+    second: heavy-sheet-v1_4
+  - first:
+      213: -3306739877324518661
+    second: heavy-sheet-v1_5
+  - first:
+      213: 7569261929960682521
+    second: heavy-sheet-v1_6
+  - first:
+      213: 1983327101501865658
+    second: heavy-sheet-v1_7
+  - first:
+      213: 8514542655898025384
+    second: heavy-sheet-v1_8
+  - first:
+      213: -6256264373177670091
+    second: heavy-sheet-v1_9
+  - first:
+      213: 2904140657300870497
+    second: heavy-sheet-v1_10
+  - first:
+      213: -2027960865724868265
+    second: heavy-sheet-v1_11
+  - first:
+      213: -1911903420447089777
+    second: heavy-sheet-v1_12
+  - first:
+      213: 4033294571480824815
+    second: heavy-sheet-v1_13
+  - first:
+      213: 8402465316121584744
+    second: heavy-sheet-v1_14
+  - first:
+      213: -9076547809709580048
+    second: heavy-sheet-v1_15
+  - first:
+      213: -2355072841245363143
+    second: heavy-sheet-v1_16
+  - first:
+      213: 6862041533490805684
+    second: heavy-sheet-v1_17
+  - first:
+      213: -2623388679490004451
+    second: heavy-sheet-v1_18
+  - first:
+      213: -3502400010179703702
+    second: heavy-sheet-v1_19
+  - first:
+      213: 3789847870967530586
+    second: heavy-sheet-v1_20
+  - first:
+      213: 7131076494300795995
+    second: heavy-sheet-v1_21
+  - first:
+      213: 3073745771007300130
+    second: heavy-sheet-v1_22
+  - first:
+      213: -7373371373055300805
+    second: heavy-sheet-v1_23
+  - first:
+      213: -4872084768447177863
+    second: heavy-sheet-v1_24
+  - first:
+      213: 4912715763308020899
+    second: heavy-sheet-v1_25
+  - first:
+      213: -8073295130728908557
+    second: heavy-sheet-v1_26
+  - first:
+      213: 7418560438014199807
+    second: heavy-sheet-v1_27
+  - first:
+      213: 1786759934159415816
+    second: heavy-sheet-v1_28
+  - first:
+      213: -3937479908071767591
+    second: heavy-sheet-v1_29
+  - first:
+      213: -620781748664633083
+    second: heavy-sheet-v1_30
+  - first:
+      213: -532403014685739664
+    second: heavy-sheet-v1_31
+  - first:
+      213: 622070811902196749
+    second: heavy-sheet-v1_32
+  - first:
+      213: 6480548321061159257
+    second: heavy-sheet-v1_33
+  - first:
+      213: -1575309471123157558
+    second: heavy-sheet-v1_34
+  - first:
+      213: 2237848732717327912
+    second: heavy-sheet-v1_35
+  - first:
+      213: -1273223028526364820
+    second: heavy-sheet-v1_36
+  - first:
+      213: -8445817554073501165
+    second: heavy-sheet-v1_37
+  - first:
+      213: -7264169551498548891
+    second: heavy-sheet-v1_38
+  - first:
+      213: 4610096232159400651
+    second: heavy-sheet-v1_39
+  - first:
+      213: -7878343949703037902
+    second: heavy-sheet-v1_40
+  - first:
+      213: -7648959993119331596
+    second: heavy-sheet-v1_41
+  - first:
+      213: 7188093618274401437
+    second: heavy-sheet-v1_42
+  - first:
+      213: -3236629554778488254
+    second: heavy-sheet-v1_43
+  - first:
+      213: 1166482127478764419
+    second: heavy-sheet-v1_44
+  - first:
+      213: 1177782004020291743
+    second: heavy-sheet-v1_45
+  - first:
+      213: -3625948879382042805
+    second: heavy-sheet-v1_46
+  - first:
+      213: -141565667900473539
+    second: heavy-sheet-v1_47
+  - first:
+      213: -4370006864570273294
+    second: heavy-sheet-v1_48
+  - first:
+      213: 5241673919825341635
+    second: heavy-sheet-v1_49
+  - first:
+      213: -4654749958063559402
+    second: heavy-sheet-v1_50
+  - first:
+      213: 7691938744315588440
+    second: heavy-sheet-v1_51
+  - first:
+      213: -3241635996359645445
+    second: heavy-sheet-v1_52
+  - first:
+      213: -8761093870029809840
+    second: heavy-sheet-v1_53
+  - first:
+      213: 2873623042526438915
+    second: heavy-sheet-v1_54
+  - first:
+      213: -2404834715924466624
+    second: heavy-sheet-v1_55
+  - first:
+      213: -7454057411386453551
+    second: heavy-sheet-v1_56
+  - first:
+      213: -8856983902746156266
+    second: heavy-sheet-v1_57
+  - first:
+      213: 3103508869928196565
+    second: heavy-sheet-v1_58
+  - first:
+      213: -6172588086667681361
+    second: heavy-sheet-v1_59
+  - first:
+      213: -1498791262700391659
+    second: heavy-sheet-v1_60
+  - first:
+      213: -4079697438781316075
+    second: heavy-sheet-v1_61
+  - first:
+      213: -7072885282813307619
+    second: heavy-sheet-v1_62
+  - first:
+      213: 5792517803680479912
+    second: heavy-sheet-v1_63
+  - first:
+      213: 6097741725629405247
+    second: heavy-sheet-v1_64
+  - first:
+      213: 6727457683063688286
+    second: heavy-sheet-v1_65
+  - first:
+      213: -5248091184210728442
+    second: heavy-sheet-v1_66
+  - first:
+      213: 4531555201097403874
+    second: heavy-sheet-v1_67
+  - first:
+      213: -7170035402845342647
+    second: heavy-sheet-v1_68
+  - first:
+      213: 6707646531327597872
+    second: heavy-sheet-v1_69
+  - first:
+      213: 5630973230370037609
+    second: heavy-sheet-v1_70
+  - first:
+      213: 5987237414136235505
+    second: heavy-sheet-v1_71
+  - first:
+      213: 8551127663492242889
+    second: heavy-sheet-v1_72
+  - first:
+      213: -6209592857543188070
+    second: heavy-sheet-v1_73
+  - first:
+      213: -165709287878520718
+    second: heavy-sheet-v1_74
+  - first:
+      213: -8096862449504985759
+    second: heavy-sheet-v1_75
+  - first:
+      213: -2962635502238691593
+    second: heavy-sheet-v1_76
+  - first:
+      213: 2883915274153402665
+    second: heavy-sheet-v1_77
+  - first:
+      213: -9115430346278177655
+    second: heavy-sheet-v1_78
+  - first:
+      213: 4994312149200039690
+    second: heavy-sheet-v1_79
+  - first:
+      213: -8583245274576763296
+    second: heavy-sheet-v1_80
+  - first:
+      213: 6034732306842249482
+    second: heavy-sheet-v1_81
+  - first:
+      213: -8052700710965342696
+    second: heavy-sheet-v1_82
+  - first:
+      213: -5138685913501419350
+    second: heavy-sheet-v1_83
+  - first:
+      213: -8882564805358251865
+    second: heavy-sheet-v1_84
+  - first:
+      213: 3100479166706395921
+    second: heavy-sheet-v1_85
+  - first:
+      213: 7334275524958916275
+    second: heavy-sheet-v1_86
+  - first:
+      213: -6153120801891968310
+    second: heavy-sheet-v1_87
+  - first:
+      213: -4603974906314646243
+    second: heavy-sheet-v1_88
+  - first:
+      213: -508315921765042068
+    second: heavy-sheet-v1_89
+  - first:
+      213: 5472030641327513555
+    second: heavy-sheet-v1_90
+  - first:
+      213: 6257057355950322117
+    second: heavy-sheet-v1_91
+  - first:
+      213: -4548948269332529668
+    second: heavy-sheet-v1_92
+  - first:
+      213: 2017031058808721703
+    second: heavy-sheet-v1_93
+  - first:
+      213: -5532168796680691291
+    second: heavy-sheet-v1_94
+  - first:
+      213: 1597653429317601880
+    second: heavy-sheet-v1_95
+  - first:
+      213: -825766352004184344
+    second: heavy-sheet-v1_96
+  - first:
+      213: -8521816173749451826
+    second: heavy-sheet-v1_97
+  - first:
+      213: -3925131617407770123
+    second: heavy-sheet-v1_98
+  - first:
+      213: -6472847046655326714
+    second: heavy-sheet-v1_99
+  - first:
+      213: 591170047922543959
+    second: heavy-sheet-v1_100
+  - first:
+      213: -1910216617725479100
+    second: heavy-sheet-v1_101
+  - first:
+      213: 367141068159588000
+    second: heavy-sheet-v1_102
+  - first:
+      213: 694072469303975207
+    second: heavy-sheet-v1_103
+  - first:
+      213: 230951934963429450
+    second: heavy-sheet-v1_104
+  - first:
+      213: -1624907467208892383
+    second: heavy-sheet-v1_105
+  - first:
+      213: 4785836463053891489
+    second: heavy-sheet-v1_106
+  - first:
+      213: 9120758218033698118
+    second: heavy-sheet-v1_107
+  - first:
+      213: -9058677777421525948
+    second: heavy-sheet-v1_108
+  - first:
+      213: -2600201010212832719
+    second: heavy-sheet-v1_109
+  - first:
+      213: 6587687940019016119
+    second: heavy-sheet-v1_110
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heavy-sheet-v1_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1761
+        width: 138
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2966563bfdcbd290800000000000000
+      internalID: -7864465845440321237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1761
+        width: 138
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de054ccd81fe4b4a0800000000000000
+      internalID: -6578370265619345171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_2
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1761
+        width: 138
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e879b0f15267c90800000000000000
+      internalID: -7172504541272240552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_3
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1761
+        width: 138
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3e6e625ec7192f0800000000000000
+      internalID: -967855121265925213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_4
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1761
+        width: 138
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed33bfd401670e5b0800000000000000
+      internalID: -5341139345661545506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_5
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1761
+        width: 138
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa0477f9991c12d0800000000000000
+      internalID: -3306739877324518661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_6
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1761
+        width: 138
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914b1332f9b6b0960800000000000000
+      internalID: 7569261929960682521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_7
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1761
+        width: 138
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe7c6e9d71368b10800000000000000
+      internalID: 1983327101501865658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_8
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1761
+        width: 138
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad76bdfe6bb92670800000000000000
+      internalID: 8514542655898025384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_9
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1761
+        width: 138
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53620df13b84d29a0800000000000000
+      internalID: -6256264373177670091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_10
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 1761
+        width: 136
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16510308a849d4820800000000000000
+      internalID: 2904140657300870497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_11
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1761
+        width: 138
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7595314565c3bd3e0800000000000000
+      internalID: -2027960865724868265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_12
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1761
+        width: 138
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b956308fd8775e0800000000000000
+      internalID: -1911903420447089777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_13
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 1761
+        width: 138
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb30af1b0429f730800000000000000
+      internalID: 4033294571480824815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_14
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 1761
+        width: 138
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864a7f4dfad8b9470800000000000000
+      internalID: 8402465316121584744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_15
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 1761
+        width: 138
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0296f4bdf990280800000000000000
+      internalID: -9076547809709580048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_16
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 1761
+        width: 138
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93476658ab9115fd0800000000000000
+      internalID: -2355072841245363143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_17
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 1761
+        width: 138
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb32b50b6eda3f50800000000000000
+      internalID: 6862041533490805684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1455
+        width: 182
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a973335e9d79bd0800000000000000
+      internalID: -2623388679490004451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1455
+        width: 182
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c0aeb4fb9f46fc0800000000000000
+      internalID: -3502400010179703702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_20
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1455
+        width: 182
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a544ac52f8e389430800000000000000
+      internalID: 3789847870967530586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_21
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1455
+        width: 180
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54dfec1a4ca6f260800000000000000
+      internalID: 7131076494300795995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_22
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1455
+        width: 182
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222dfba4e7328aa20800000000000000
+      internalID: 3073745771007300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_23
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1453
+        width: 182
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b21005dc58ca990800000000000000
+      internalID: -7373371373055300805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_24
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1455
+        width: 130
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b5d1d67b0e26cb0800000000000000
+      internalID: -4872084768447177863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_25
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1455
+        width: 134
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4cf6245f87d2440800000000000000
+      internalID: 4912715763308020899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_26
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1453
+        width: 146
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8330e4ad4e5ff80800000000000000
+      internalID: -8073295130728908557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_27
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1453
+        width: 158
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff74a94c96504f660800000000000000
+      internalID: 7418560438014199807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_28
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 1453
+        width: 168
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ae87681b8dbc810800000000000000
+      internalID: 1786759934159415816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_29
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 1449
+        width: 180
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d10521a2e24b59c0800000000000000
+      internalID: -3937479908071767591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_30
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1449
+        width: 184
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5097cc3e94a8267f0800000000000000
+      internalID: -620781748664633083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_31
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 1449
+        width: 186
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0753f4867468c98f0800000000000000
+      internalID: -532403014685739664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_32
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 1449
+        width: 186
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cb1988b1a02a800800000000000000
+      internalID: 622070811902196749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_33
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 1449
+        width: 182
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951ca92dc588fe950800000000000000
+      internalID: 6480548321061159257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_34
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 1449
+        width: 180
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd4562e160632ae0800000000000000
+      internalID: -1575309471123157558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_35
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 1449
+        width: 176
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826aca6d09f6e0f10800000000000000
+      internalID: 2237848732717327912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1147
+        width: 184
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67c6d0c66a945ee0800000000000000
+      internalID: -1273223028526364820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1147
+        width: 184
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312c0b3bead6aca80800000000000000
+      internalID: -8445817554073501165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_38
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1147
+        width: 186
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56968b6b74c703b90800000000000000
+      internalID: -7264169551498548891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_39
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1147
+        width: 186
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc25a3a091a5aff30800000000000000
+      internalID: 4610096232159400651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_40
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1147
+        width: 186
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c3a934bef7aa290800000000000000
+      internalID: -7878343949703037902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_41
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1147
+        width: 186
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faa2f4896f69d590800000000000000
+      internalID: -7648959993119331596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_42
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1147
+        width: 156
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c7f79cf0d31c360800000000000000
+      internalID: 7188093618274401437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_43
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1147
+        width: 154
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242c5ed719e2513d0800000000000000
+      internalID: -3236629554778488254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_44
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1147
+        width: 154
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383b63d805d203010800000000000000
+      internalID: 1166482127478764419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_45
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1147
+        width: 154
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f982a741e72585010800000000000000
+      internalID: 1177782004020291743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_46
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 1147
+        width: 154
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4725be84ba0eadc0800000000000000
+      internalID: -3625948879382042805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_47
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 1147
+        width: 154
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fb66c66ce090ef0800000000000000
+      internalID: -141565667900473539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_48
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 1147
+        width: 156
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f13543f8ed9a53c0800000000000000
+      internalID: -4370006864570273294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_49
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 1147
+        width: 158
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc6e9398aa2eb840800000000000000
+      internalID: 5241673919825341635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_50
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 1147
+        width: 158
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d6b573391076fb0800000000000000
+      internalID: -4654749958063559402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_51
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 1147
+        width: 158
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85faef8c8814fba60800000000000000
+      internalID: 7691938744315588440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_52
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 1147
+        width: 158
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf62dd97c356303d0800000000000000
+      internalID: -3241635996359645445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_53
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 1147
+        width: 158
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05755012b875a6680800000000000000
+      internalID: -8761093870029809840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_54
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 841
+        width: 158
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3066a2c9ee821e720800000000000000
+      internalID: 2873623042526438915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_55
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 841
+        width: 158
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0447bc5319f40aed0800000000000000
+      internalID: -2404834715924466624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_56
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 841
+        width: 160
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d151f2174edd8890800000000000000
+      internalID: -7454057411386453551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_57
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 837
+        width: 162
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6136677111ca51580800000000000000
+      internalID: -8856983902746156266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_58
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 837
+        width: 162
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d91855cfd0e11b20800000000000000
+      internalID: 3103508869928196565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_59
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 837
+        width: 162
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa16d55c6df865aa0800000000000000
+      internalID: -6172588086667681361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_60
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 837
+        width: 164
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513b84a9949333be0800000000000000
+      internalID: -1498791262700391659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_61
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 837
+        width: 166
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5146e5a6bc00267c0800000000000000
+      internalID: -4079697438781316075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_62
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 837
+        width: 164
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1513dc1f4018dd90800000000000000
+      internalID: -7072885282813307619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_63
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 837
+        width: 164
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa308b9048236050800000000000000
+      internalID: 5792517803680479912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_64
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 837
+        width: 162
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38d730dac78f9450800000000000000
+      internalID: 6097741725629405247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_65
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 837
+        width: 160
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ccb708e1bbc5d50800000000000000
+      internalID: 6727457683063688286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_66
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 837
+        width: 158
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aa240afd80b27b0800000000000000
+      internalID: -5248091184210728442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_67
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 837
+        width: 159
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed0c79327153ee30800000000000000
+      internalID: 4531555201097403874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_68
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 837
+        width: 157
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944bd622acaee7c90800000000000000
+      internalID: -7170035402845342647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_69
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 837
+        width: 154
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d99aa4bf8561d50800000000000000
+      internalID: 6707646531327597872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_70
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 837
+        width: 156
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f90ff915c352e40800000000000000
+      internalID: 5630973230370037609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_71
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 845
+        width: 136
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5c487d4b0f61350800000000000000
+      internalID: 5987237414136235505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_72
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 539
+        width: 132
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd987bdd45bba670800000000000000
+      internalID: 8551127663492242889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_73
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 539
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91e556223813d9a0800000000000000
+      internalID: -6209592857543188070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_74
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 539
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2709408d74843bdf0800000000000000
+      internalID: -165709287878520718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_75
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 539
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d5e0e408a22af80800000000000000
+      internalID: -8096862449504985759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_76
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 539
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe0a1a15ba92e6d0800000000000000
+      internalID: -2962635502238691593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_77
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 539
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921ac3689a9b50820800000000000000
+      internalID: 2883915274153402665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_78
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 539
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984f54b456c7f7180800000000000000
+      internalID: -9115430346278177655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_79
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 539
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f6c7e407c5f4540800000000000000
+      internalID: 4994312149200039690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_80
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 539
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0664dc416ef22e880800000000000000
+      internalID: -8583245274576763296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_81
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 539
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09e7e74f0dafb350800000000000000
+      internalID: 6034732306842249482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_82
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 539
+        width: 152
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e00605e5f0f3090800000000000000
+      internalID: -8052700710965342696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_83
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 539
+        width: 152
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8b1793368bfa8b0800000000000000
+      internalID: -5138685913501419350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_84
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 539
+        width: 154
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a01c321f5acab480800000000000000
+      internalID: -8882564805358251865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_85
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 539
+        width: 155
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ba805006d170b20800000000000000
+      internalID: 3100479166706395921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_86
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 539
+        width: 155
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be84063bb498c560800000000000000
+      internalID: 7334275524958916275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_87
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 539
+        width: 153
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca99273b39bb9aa0800000000000000
+      internalID: -6153120801891968310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_88
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 539
+        width: 154
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d9d4237356b10c0800000000000000
+      internalID: -4603974906314646243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_89
+      rect:
+        serializedVersion: 2
+        x: 3691
+        y: 539
+        width: 153
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68f481cc5912f8f0800000000000000
+      internalID: -508315921765042068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_90
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 235
+        width: 154
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df116050ee80fb40800000000000000
+      internalID: 5472030641327513555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_91
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 235
+        width: 154
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1f9a0938885d650800000000000000
+      internalID: 6257057355950322117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_92
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 235
+        width: 142
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd7ec086a3eed0c0800000000000000
+      internalID: -4548948269332529668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_93
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 411
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7215931bf0fedfb10800000000000000
+      internalID: 2017031058808721703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_94
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 404
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1e8544ac9c933b0800000000000000
+      internalID: -5532168796680691291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_95
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 235
+        width: 142
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a09a844510c2610800000000000000
+      internalID: 1597653429317601880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_96
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 411
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e60251c0e94a84f0800000000000000
+      internalID: -825766352004184344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_97
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 404
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec34c7a275d6cb980800000000000000
+      internalID: -8521816173749451826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_98
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 233
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f161c717912789c0800000000000000
+      internalID: -3925131617407770123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_99
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 233
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6064caad7e3db26a0800000000000000
+      internalID: -6472847046655326714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_100
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 233
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d1644c602443800800000000000000
+      internalID: 591170047922543959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_101
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 233
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447bc606b1c8d75e0800000000000000
+      internalID: -1910216617725479100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_102
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 233
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a61c163bd8581500800000000000000
+      internalID: 367141068159588000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_103
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 233
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ddd35cb37d1a900800000000000000
+      internalID: 694072469303975207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_104
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 233
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a403fabaf81843300800000000000000
+      internalID: 230951934963429450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_105
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 233
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1206228844b2379e0800000000000000
+      internalID: -1624907467208892383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_106
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 233
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7607d18e4ba6240800000000000000
+      internalID: 4785836463053891489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_107
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 233
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6459f148641739e70800000000000000
+      internalID: 9120758218033698118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_108
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 233
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c901e6e8c194280800000000000000
+      internalID: -9058677777421525948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_109
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 233
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13af6a925fa3aebd0800000000000000
+      internalID: -2600201010212832719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy-sheet-v1_110
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 233
+        width: 130
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b155f3474b2c6b50800000000000000
+      internalID: 6587687940019016119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

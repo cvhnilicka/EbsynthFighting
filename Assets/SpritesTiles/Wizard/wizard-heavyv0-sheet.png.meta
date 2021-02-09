@@ -1,0 +1,2756 @@
+fileFormatVersion: 2
+guid: 7d88b73dc500c4ee38754f24cc027968
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4838144496567366439
+    second: wizard-heavyv0-sheet_0
+  - first:
+      213: 6600916463057888229
+    second: wizard-heavyv0-sheet_1
+  - first:
+      213: 8838505636917408748
+    second: wizard-heavyv0-sheet_2
+  - first:
+      213: -5547188255605999432
+    second: wizard-heavyv0-sheet_3
+  - first:
+      213: -7570774419999482521
+    second: wizard-heavyv0-sheet_4
+  - first:
+      213: 7221980876058933982
+    second: wizard-heavyv0-sheet_5
+  - first:
+      213: 6264819608308962057
+    second: wizard-heavyv0-sheet_6
+  - first:
+      213: 5251105966159762810
+    second: wizard-heavyv0-sheet_7
+  - first:
+      213: -628173175013914731
+    second: wizard-heavyv0-sheet_8
+  - first:
+      213: -4618047294731169525
+    second: wizard-heavyv0-sheet_9
+  - first:
+      213: -1849594300294061947
+    second: wizard-heavyv0-sheet_10
+  - first:
+      213: -5458464270357594151
+    second: wizard-heavyv0-sheet_11
+  - first:
+      213: -7597586515196214132
+    second: wizard-heavyv0-sheet_12
+  - first:
+      213: 4617167647148539864
+    second: wizard-heavyv0-sheet_13
+  - first:
+      213: -3404480293160171634
+    second: wizard-heavyv0-sheet_14
+  - first:
+      213: -7733872935457102459
+    second: wizard-heavyv0-sheet_15
+  - first:
+      213: 6429248908393960664
+    second: wizard-heavyv0-sheet_16
+  - first:
+      213: -8129544115832130188
+    second: wizard-heavyv0-sheet_17
+  - first:
+      213: 1483537219178836438
+    second: wizard-heavyv0-sheet_18
+  - first:
+      213: 1011025120158338332
+    second: wizard-heavyv0-sheet_19
+  - first:
+      213: 3926453066036695254
+    second: wizard-heavyv0-sheet_20
+  - first:
+      213: -5510679278420160523
+    second: wizard-heavyv0-sheet_21
+  - first:
+      213: -4855488248232100616
+    second: wizard-heavyv0-sheet_22
+  - first:
+      213: -1535175913363638482
+    second: wizard-heavyv0-sheet_23
+  - first:
+      213: 5691758063204103357
+    second: wizard-heavyv0-sheet_24
+  - first:
+      213: -3753370305536955784
+    second: wizard-heavyv0-sheet_25
+  - first:
+      213: -7539894630810898698
+    second: wizard-heavyv0-sheet_26
+  - first:
+      213: 8075453254697775031
+    second: wizard-heavyv0-sheet_27
+  - first:
+      213: 8009802915138994025
+    second: wizard-heavyv0-sheet_28
+  - first:
+      213: 2201725119770000893
+    second: wizard-heavyv0-sheet_29
+  - first:
+      213: 3751935970752872844
+    second: wizard-heavyv0-sheet_30
+  - first:
+      213: 604165796151516935
+    second: wizard-heavyv0-sheet_31
+  - first:
+      213: 7541133822261754424
+    second: wizard-heavyv0-sheet_32
+  - first:
+      213: -7569453899830553978
+    second: wizard-heavyv0-sheet_33
+  - first:
+      213: -2764007370357294173
+    second: wizard-heavyv0-sheet_34
+  - first:
+      213: 8129736384400057859
+    second: wizard-heavyv0-sheet_35
+  - first:
+      213: -6816976258470970356
+    second: wizard-heavyv0-sheet_36
+  - first:
+      213: 8365819468767666554
+    second: wizard-heavyv0-sheet_37
+  - first:
+      213: -4049646838110673032
+    second: wizard-heavyv0-sheet_38
+  - first:
+      213: 8062477217099564533
+    second: wizard-heavyv0-sheet_39
+  - first:
+      213: -379507871679521903
+    second: wizard-heavyv0-sheet_40
+  - first:
+      213: 5158559469136368094
+    second: wizard-heavyv0-sheet_41
+  - first:
+      213: -8614162875214746998
+    second: wizard-heavyv0-sheet_42
+  - first:
+      213: 5760024496706982232
+    second: wizard-heavyv0-sheet_43
+  - first:
+      213: -2656255519125581089
+    second: wizard-heavyv0-sheet_44
+  - first:
+      213: 3227251853468100533
+    second: wizard-heavyv0-sheet_45
+  - first:
+      213: -5345478326007590802
+    second: wizard-heavyv0-sheet_46
+  - first:
+      213: 1107230928473174946
+    second: wizard-heavyv0-sheet_47
+  - first:
+      213: 423760550182022712
+    second: wizard-heavyv0-sheet_48
+  - first:
+      213: -7494387696232117411
+    second: wizard-heavyv0-sheet_49
+  - first:
+      213: -5178729950875131738
+    second: wizard-heavyv0-sheet_50
+  - first:
+      213: -8340768009275064680
+    second: wizard-heavyv0-sheet_51
+  - first:
+      213: -540924353424085560
+    second: wizard-heavyv0-sheet_52
+  - first:
+      213: 7523818439916852755
+    second: wizard-heavyv0-sheet_53
+  - first:
+      213: -4020888179678499300
+    second: wizard-heavyv0-sheet_54
+  - first:
+      213: 3879867024785178664
+    second: wizard-heavyv0-sheet_55
+  - first:
+      213: -8213324119761631164
+    second: wizard-heavyv0-sheet_56
+  - first:
+      213: 2419613415917288975
+    second: wizard-heavyv0-sheet_57
+  - first:
+      213: 3120668484391693084
+    second: wizard-heavyv0-sheet_58
+  - first:
+      213: -1128213634480602420
+    second: wizard-heavyv0-sheet_59
+  - first:
+      213: 7811875614931267452
+    second: wizard-heavyv0-sheet_60
+  - first:
+      213: -5864012611892356609
+    second: wizard-heavyv0-sheet_61
+  - first:
+      213: -3568674589078284802
+    second: wizard-heavyv0-sheet_62
+  - first:
+      213: -7281387032575994815
+    second: wizard-heavyv0-sheet_63
+  - first:
+      213: 531675051801787277
+    second: wizard-heavyv0-sheet_64
+  - first:
+      213: -428715645765325151
+    second: wizard-heavyv0-sheet_65
+  - first:
+      213: 5168972543623921735
+    second: wizard-heavyv0-sheet_66
+  - first:
+      213: -2059045890648301628
+    second: wizard-heavyv0-sheet_67
+  - first:
+      213: 6142706765552020112
+    second: wizard-heavyv0-sheet_68
+  - first:
+      213: -4305082620147262669
+    second: wizard-heavyv0-sheet_69
+  - first:
+      213: -2381548532831646382
+    second: wizard-heavyv0-sheet_70
+  - first:
+      213: 2349390639765413071
+    second: wizard-heavyv0-sheet_71
+  - first:
+      213: 1563017420049089895
+    second: wizard-heavyv0-sheet_72
+  - first:
+      213: 1913502511618024604
+    second: wizard-heavyv0-sheet_73
+  - first:
+      213: 9099142891019293380
+    second: wizard-heavyv0-sheet_74
+  - first:
+      213: 6574864018433852529
+    second: wizard-heavyv0-sheet_75
+  - first:
+      213: -7502368293741012321
+    second: wizard-heavyv0-sheet_76
+  - first:
+      213: 2887573193108755425
+    second: wizard-heavyv0-sheet_77
+  - first:
+      213: 1204409495544634691
+    second: wizard-heavyv0-sheet_78
+  - first:
+      213: 4634218661719354643
+    second: wizard-heavyv0-sheet_79
+  - first:
+      213: 6661255852299362554
+    second: wizard-heavyv0-sheet_80
+  - first:
+      213: 7015668752250582556
+    second: wizard-heavyv0-sheet_81
+  - first:
+      213: -4433512686709059858
+    second: wizard-heavyv0-sheet_82
+  - first:
+      213: 7505907175018202723
+    second: wizard-heavyv0-sheet_83
+  - first:
+      213: -7422896172267914290
+    second: wizard-heavyv0-sheet_84
+  - first:
+      213: 4223465408979394526
+    second: wizard-heavyv0-sheet_85
+  - first:
+      213: -1276703984912045180
+    second: wizard-heavyv0-sheet_86
+  - first:
+      213: -2922987363298178816
+    second: wizard-heavyv0-sheet_87
+  - first:
+      213: -41448568872319010
+    second: wizard-heavyv0-sheet_88
+  - first:
+      213: -7321995961350877754
+    second: wizard-heavyv0-sheet_89
+  - first:
+      213: 903153949352194708
+    second: wizard-heavyv0-sheet_90
+  - first:
+      213: -7631441594095048105
+    second: wizard-heavyv0-sheet_91
+  - first:
+      213: 1811315333951033084
+    second: wizard-heavyv0-sheet_92
+  - first:
+      213: 2212569262733663108
+    second: wizard-heavyv0-sheet_93
+  - first:
+      213: -3973474180916714522
+    second: wizard-heavyv0-sheet_94
+  - first:
+      213: 2813999109132503957
+    second: wizard-heavyv0-sheet_95
+  - first:
+      213: -7816282123615024838
+    second: wizard-heavyv0-sheet_96
+  - first:
+      213: -1365374464143922931
+    second: wizard-heavyv0-sheet_97
+  - first:
+      213: -8961615658349091004
+    second: wizard-heavyv0-sheet_98
+  - first:
+      213: -6583706015850294345
+    second: wizard-heavyv0-sheet_99
+  - first:
+      213: 56539244769071411
+    second: wizard-heavyv0-sheet_100
+  - first:
+      213: 4598348848467130010
+    second: wizard-heavyv0-sheet_101
+  - first:
+      213: -742220977835785939
+    second: wizard-heavyv0-sheet_102
+  - first:
+      213: 8542092879100633979
+    second: wizard-heavyv0-sheet_103
+  - first:
+      213: -3662023704276541385
+    second: wizard-heavyv0-sheet_104
+  - first:
+      213: 5863962315917599844
+    second: wizard-heavyv0-sheet_105
+  - first:
+      213: 6927793450690875743
+    second: wizard-heavyv0-sheet_106
+  - first:
+      213: -4030689082674082845
+    second: wizard-heavyv0-sheet_107
+  - first:
+      213: -1485014548761233077
+    second: wizard-heavyv0-sheet_108
+  - first:
+      213: -1356043147881616130
+    second: wizard-heavyv0-sheet_109
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3696
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc4716c6357bdcb0800000000000000
+      internalID: -4838144496567366439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 3696
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3e79ccc8a2b9b50800000000000000
+      internalID: 6600916463057888229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3696
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3ffb16c0ea8aa70800000000000000
+      internalID: 8838505636917408748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3696
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8b26afbad6403b0800000000000000
+      internalID: -5547188255605999432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3696
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d1155d6c43fe690800000000000000
+      internalID: -7570774419999482521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 3696
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda3824d751a93460800000000000000
+      internalID: 7221980876058933982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3696
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9035827cd3c11f650800000000000000
+      internalID: 6264819608308962057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 3696
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7513eefd0dafd840800000000000000
+      internalID: 5251105966159762810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3696
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597cdd553d74847f0800000000000000
+      internalID: -628173175013914731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 3696
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b015891f37669efb0800000000000000
+      internalID: -4618047294731169525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3696
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580a26098cbe456e0800000000000000
+      internalID: -1849594300294061947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 3696
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df7c229aa3af34b0800000000000000
+      internalID: -5458464270357594151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3696
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c848e637153ff8690800000000000000
+      internalID: -7597586515196214132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 3696
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dff6b42389731040800000000000000
+      internalID: 4617167647148539864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3696
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87ce59063bd0c0d0800000000000000
+      internalID: -3404480293160171634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 3696
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58562108a83cba490800000000000000
+      internalID: -7733872935457102459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3256
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4d36d81d7493950800000000000000
+      internalID: 6429248908393960664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 3256
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47575f5e2be0e2f80800000000000000
+      internalID: -8129544115832130188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3256
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1b930ad35969410800000000000000
+      internalID: 1483537219178836438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3256
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dc80a7df1e70e00800000000000000
+      internalID: 1011025120158338332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3256
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d05c54a2409d7630800000000000000
+      internalID: 3926453066036695254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 3256
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff09a2a4622683b0800000000000000
+      internalID: -5510679278420160523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3256
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcba09e927dd9cb0800000000000000
+      internalID: -4855488248232100616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 3256
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e277938f3a5f1bae0800000000000000
+      internalID: -1535175913363638482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3256
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4feb06dcf2dfe40800000000000000
+      internalID: 5691758063204103357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 3256
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a68f3e79959ebc0800000000000000
+      internalID: -3753370305536955784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3256
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe24a608c9ec5790800000000000000
+      internalID: -7539894630810898698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 3256
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf688613f5c11070800000000000000
+      internalID: 8075453254697775031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3256
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f7fb54059882f60800000000000000
+      internalID: 8009802915138994025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 3256
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdf1f8c4591e8e10800000000000000
+      internalID: 2201725119770000893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3256
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c814cb403ed811430800000000000000
+      internalID: 3751935970752872844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 3256
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f5d01379d626800800000000000000
+      internalID: 604165796151516935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2816
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a7897b14d77a860800000000000000
+      internalID: 7541133822261754424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2816
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68297e468c5e3f690800000000000000
+      internalID: -7569453899830553978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2816
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abba45e0f544a9d0800000000000000
+      internalID: -2764007370357294173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2816
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306ebbd1b20a2d070800000000000000
+      internalID: 8129736384400057859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2816
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cf097f53c3561a0800000000000000
+      internalID: -6816976258470970356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2816
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71a1fa9b7c591470800000000000000
+      internalID: 8365819468767666554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2816
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87721ac18a3ccc7c0800000000000000
+      internalID: -4049646838110673032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2816
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f546e6ef4ca3ef60800000000000000
+      internalID: 8062477217099564533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2816
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bd317f997bbbaf0800000000000000
+      internalID: -379507871679521903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2816
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1d9968182e69740800000000000000
+      internalID: 5158559469136368094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2816
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8aa7793188547880800000000000000
+      internalID: -8614162875214746998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2816
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85194c703c7bfef40800000000000000
+      internalID: 5760024496706982232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2816
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd259d5cda5132bd0800000000000000
+      internalID: -2656255519125581089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 2816
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7efa6467089cc20800000000000000
+      internalID: 3227251853468100533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2816
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6094c7b8cb01d5b0800000000000000
+      internalID: -5345478326007590802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 2816
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a338ffb9acad5f00800000000000000
+      internalID: 1107230928473174946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2376
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e6c67a9ff71e500800000000000000
+      internalID: 423760550182022712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2376
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bc605e8169ef790800000000000000
+      internalID: -7494387696232117411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2376
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0696a3c847128b0800000000000000
+      internalID: -5178729950875131738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2376
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eb735dfa3af3c80800000000000000
+      internalID: -8340768009275064680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2376
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdaccf9a204e78f0800000000000000
+      internalID: -540924353424085560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2376
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31617c91209f96860800000000000000
+      internalID: 7523818439916852755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2376
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e22b0118fe238c0800000000000000
+      internalID: -4020888179678499300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2376
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820821ca08e08d530800000000000000
+      internalID: 3879867024785178664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2376
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448c578aa39640e80800000000000000
+      internalID: -8213324119761631164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2376
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ef4850591349120800000000000000
+      internalID: 2419613415917288975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2376
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b6ce9d377de4b20800000000000000
+      internalID: 3120668484391693084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2376
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2080e4da7c750f0800000000000000
+      internalID: -1128213634480602420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2376
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fa3819b7b596c60800000000000000
+      internalID: 7811875614931267452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 2376
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9debd2997de9ea0800000000000000
+      internalID: -5864012611892356609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2376
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5960f6e55897ec0800000000000000
+      internalID: -3568674589078284802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 2376
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1441c23821153fa90800000000000000
+      internalID: -7281387032575994815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1936
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b359684a3e06700800000000000000
+      internalID: 531675051801787277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1936
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae61804465ec0af0800000000000000
+      internalID: -428715645765325151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1936
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740837c5421ebb740800000000000000
+      internalID: 5168972543623921735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1936
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf1ea7fbaccc63e0800000000000000
+      internalID: -2059045890648301628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1936
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aed1002474f3550800000000000000
+      internalID: 6142706765552020112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1936
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b1a619a264144c0800000000000000
+      internalID: -4305082620147262669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1936
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d87353a3a03fed0800000000000000
+      internalID: -2381548532831646382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1936
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc58d9d656ba9020800000000000000
+      internalID: 2349390639765413071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1936
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76506c3ff04f0b510800000000000000
+      internalID: 1563017420049089895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1936
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c946fc965602e8a10800000000000000
+      internalID: 1913502511618024604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1936
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2d9b30046a64e70800000000000000
+      internalID: 9099142891019293380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 1936
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1744f395dfb9e3b50800000000000000
+      internalID: 6574864018433852529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1936
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ad96d39cb32e790800000000000000
+      internalID: -7502368293741012321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 1936
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e310362588b21820800000000000000
+      internalID: 2887573193108755425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1936
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d9b021e0ce6b010800000000000000
+      internalID: 1204409495544634691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 1936
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31da447d15d005040800000000000000
+      internalID: 4634218661719354643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1496
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0ab42a7e8817c50800000000000000
+      internalID: 6661255852299362554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1496
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1634bf3f89ac5160800000000000000
+      internalID: 7015668752250582556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1496
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeec48183bff872c0800000000000000
+      internalID: -4433512686709059858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1496
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3660404cec65a2860800000000000000
+      internalID: 7505907175018202723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1496
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb3d5f62439cf890800000000000000
+      internalID: -7422896172267914290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1496
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfdd5f9963cc9a30800000000000000
+      internalID: 4223465408979394526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1496
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bedff6d7c384ee0800000000000000
+      internalID: -1276703984912045180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1496
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00908afca767f67d0800000000000000
+      internalID: -2922987363298178816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1496
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7cae70fbebc6ff0800000000000000
+      internalID: -41448568872319010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1496
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd06dc777b036a90800000000000000
+      internalID: -7321995961350877754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1496
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492f0a85bb5a88c00800000000000000
+      internalID: 903153949352194708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 1496
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ae2d3ad4ca71690800000000000000
+      internalID: -7631441594095048105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1496
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe8e5013b5132910800000000000000
+      internalID: 1811315333951033084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 1496
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b10329500a4be10800000000000000
+      internalID: 2212569262733663108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1496
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3e54ae8426bd8c0800000000000000
+      internalID: -3973474180916714522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 1496
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bcb12d7455d0720800000000000000
+      internalID: 2813999109132503957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39c0bd22dcf68390800000000000000
+      internalID: -7816282123615024838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_97
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1056
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09ef4fa8273d0de0800000000000000
+      internalID: -1365374464143922931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_98
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1056
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44726861a02f1a380800000000000000
+      internalID: -8961615658349091004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_99
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1056
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b314a3b24af1a4a0800000000000000
+      internalID: -6583706015850294345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_100
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1056
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3315450c42ed8c000800000000000000
+      internalID: 56539244769071411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_101
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1056
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96b5322aed90df30800000000000000
+      internalID: 4598348848467130010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_102
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1056
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21414ff3f913b5f0800000000000000
+      internalID: -742220977835785939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_103
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1056
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73ef21373c9b8670800000000000000
+      internalID: 8542092879100633979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_104
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1056
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730698bd7d0ed2dc0800000000000000
+      internalID: -3662023704276541385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_105
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1056
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464ab8068aaf06150800000000000000
+      internalID: 5863962315917599844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_106
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1056
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5115b93077742060800000000000000
+      internalID: 6927793450690875743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_107
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 1056
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb8a2382ad1018c0800000000000000
+      internalID: -4030689082674082845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_108
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1056
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49bcc6c22b246be0800000000000000
+      internalID: -1485014548761233077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-heavyv0-sheet_109
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 1056
+        width: 250
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efce96e01fd5e2de0800000000000000
+      internalID: -1356043147881616130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

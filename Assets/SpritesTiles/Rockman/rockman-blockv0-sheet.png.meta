@@ -1,0 +1,2180 @@
+fileFormatVersion: 2
+guid: d751396c13183459c9a7f81f61d133a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9014539120581424347
+    second: rockman-blockv0-sheet_0
+  - first:
+      213: -7168507155403045476
+    second: rockman-blockv0-sheet_1
+  - first:
+      213: 9187691357546367901
+    second: rockman-blockv0-sheet_2
+  - first:
+      213: 8516920915692414798
+    second: rockman-blockv0-sheet_3
+  - first:
+      213: -7248039278524558212
+    second: rockman-blockv0-sheet_4
+  - first:
+      213: 5937657846685922294
+    second: rockman-blockv0-sheet_5
+  - first:
+      213: -5164926689597945521
+    second: rockman-blockv0-sheet_6
+  - first:
+      213: 5702261223832796804
+    second: rockman-blockv0-sheet_7
+  - first:
+      213: -5250799081563757959
+    second: rockman-blockv0-sheet_8
+  - first:
+      213: -5652409009372374305
+    second: rockman-blockv0-sheet_9
+  - first:
+      213: -1673909804553278451
+    second: rockman-blockv0-sheet_10
+  - first:
+      213: 9149518822458511270
+    second: rockman-blockv0-sheet_11
+  - first:
+      213: -3164443583921378305
+    second: rockman-blockv0-sheet_12
+  - first:
+      213: -3658590903191798974
+    second: rockman-blockv0-sheet_13
+  - first:
+      213: 5951912377482873233
+    second: rockman-blockv0-sheet_14
+  - first:
+      213: -7824744753454784263
+    second: rockman-blockv0-sheet_15
+  - first:
+      213: 6599801695773382615
+    second: rockman-blockv0-sheet_16
+  - first:
+      213: -1472669782794061823
+    second: rockman-blockv0-sheet_17
+  - first:
+      213: -933651683615128343
+    second: rockman-blockv0-sheet_18
+  - first:
+      213: 8417824882835567042
+    second: rockman-blockv0-sheet_19
+  - first:
+      213: -3238574723571788914
+    second: rockman-blockv0-sheet_20
+  - first:
+      213: -201915956931370594
+    second: rockman-blockv0-sheet_21
+  - first:
+      213: 3197729846749905054
+    second: rockman-blockv0-sheet_22
+  - first:
+      213: 3501565056803191474
+    second: rockman-blockv0-sheet_23
+  - first:
+      213: -3178320033988674740
+    second: rockman-blockv0-sheet_24
+  - first:
+      213: -1822816966229459589
+    second: rockman-blockv0-sheet_25
+  - first:
+      213: -2894780087099340620
+    second: rockman-blockv0-sheet_26
+  - first:
+      213: 6112488488031605352
+    second: rockman-blockv0-sheet_27
+  - first:
+      213: 5175455787153474016
+    second: rockman-blockv0-sheet_28
+  - first:
+      213: -8295296381246613264
+    second: rockman-blockv0-sheet_29
+  - first:
+      213: -6950842084296642652
+    second: rockman-blockv0-sheet_30
+  - first:
+      213: -6175585864985873572
+    second: rockman-blockv0-sheet_31
+  - first:
+      213: 1678577636284283199
+    second: rockman-blockv0-sheet_32
+  - first:
+      213: 7944842873333390260
+    second: rockman-blockv0-sheet_33
+  - first:
+      213: 7553976886026530129
+    second: rockman-blockv0-sheet_34
+  - first:
+      213: -6003285647171300629
+    second: rockman-blockv0-sheet_35
+  - first:
+      213: 8020321063677505486
+    second: rockman-blockv0-sheet_36
+  - first:
+      213: -3199296069438357053
+    second: rockman-blockv0-sheet_37
+  - first:
+      213: 5236588843202769201
+    second: rockman-blockv0-sheet_38
+  - first:
+      213: 6262848164452887982
+    second: rockman-blockv0-sheet_39
+  - first:
+      213: 2829290994793370412
+    second: rockman-blockv0-sheet_40
+  - first:
+      213: 3164096216708588947
+    second: rockman-blockv0-sheet_41
+  - first:
+      213: 6954899245081702363
+    second: rockman-blockv0-sheet_42
+  - first:
+      213: 5822724737788649579
+    second: rockman-blockv0-sheet_43
+  - first:
+      213: -8835683613882845501
+    second: rockman-blockv0-sheet_44
+  - first:
+      213: -3676451981922865028
+    second: rockman-blockv0-sheet_45
+  - first:
+      213: 8591726674199517303
+    second: rockman-blockv0-sheet_46
+  - first:
+      213: 8418702658785281109
+    second: rockman-blockv0-sheet_47
+  - first:
+      213: 3732258948282053983
+    second: rockman-blockv0-sheet_48
+  - first:
+      213: 211300315646865089
+    second: rockman-blockv0-sheet_49
+  - first:
+      213: 6757668749236211366
+    second: rockman-blockv0-sheet_50
+  - first:
+      213: -7061638383852796878
+    second: rockman-blockv0-sheet_51
+  - first:
+      213: 5977726416198158678
+    second: rockman-blockv0-sheet_52
+  - first:
+      213: -1305514261019783927
+    second: rockman-blockv0-sheet_53
+  - first:
+      213: -2541798376317417295
+    second: rockman-blockv0-sheet_54
+  - first:
+      213: 6185348308053238841
+    second: rockman-blockv0-sheet_55
+  - first:
+      213: -6684266799407230451
+    second: rockman-blockv0-sheet_56
+  - first:
+      213: -3258759816709196756
+    second: rockman-blockv0-sheet_57
+  - first:
+      213: -175662719299400725
+    second: rockman-blockv0-sheet_58
+  - first:
+      213: -1129580020714071195
+    second: rockman-blockv0-sheet_59
+  - first:
+      213: -4976084518253105170
+    second: rockman-blockv0-sheet_60
+  - first:
+      213: -6557384202112323525
+    second: rockman-blockv0-sheet_61
+  - first:
+      213: 109078404992276926
+    second: rockman-blockv0-sheet_62
+  - first:
+      213: -5080051594007845400
+    second: rockman-blockv0-sheet_63
+  - first:
+      213: 8604946702883903275
+    second: rockman-blockv0-sheet_64
+  - first:
+      213: -3359854735511523802
+    second: rockman-blockv0-sheet_65
+  - first:
+      213: 6186407636580974089
+    second: rockman-blockv0-sheet_66
+  - first:
+      213: 8408325415795773536
+    second: rockman-blockv0-sheet_67
+  - first:
+      213: -704072688301206316
+    second: rockman-blockv0-sheet_68
+  - first:
+      213: -2856323339818286427
+    second: rockman-blockv0-sheet_69
+  - first:
+      213: 5346155906164561450
+    second: rockman-blockv0-sheet_70
+  - first:
+      213: -6796665276873051659
+    second: rockman-blockv0-sheet_71
+  - first:
+      213: -4336973475467938973
+    second: rockman-blockv0-sheet_72
+  - first:
+      213: 1090421242727660142
+    second: rockman-blockv0-sheet_73
+  - first:
+      213: -8994452678510913065
+    second: rockman-blockv0-sheet_74
+  - first:
+      213: -1092373246311770106
+    second: rockman-blockv0-sheet_75
+  - first:
+      213: -5426899192582068450
+    second: rockman-blockv0-sheet_76
+  - first:
+      213: -1847812665473907464
+    second: rockman-blockv0-sheet_77
+  - first:
+      213: 261431526803877944
+    second: rockman-blockv0-sheet_78
+  - first:
+      213: 7855648093932993334
+    second: rockman-blockv0-sheet_79
+  - first:
+      213: -4234903227976808562
+    second: rockman-blockv0-sheet_80
+  - first:
+      213: -2640753119705661811
+    second: rockman-blockv0-sheet_81
+  - first:
+      213: 2268249094161658321
+    second: rockman-blockv0-sheet_82
+  - first:
+      213: 691627515011521240
+    second: rockman-blockv0-sheet_83
+  - first:
+      213: -411622132542609896
+    second: rockman-blockv0-sheet_84
+  - first:
+      213: 6602296461264906914
+    second: rockman-blockv0-sheet_85
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 216
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1902
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd43e10b1931a1d70800000000000000
+      internalID: 9014539120581424347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1783
+        width: 142
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c950b58f8b8548c90800000000000000
+      internalID: -7168507155403045476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1902
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b4a787c9c318f70800000000000000
+      internalID: 9187691357546367901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1783
+        width: 142
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47e0ffb27e223670800000000000000
+      internalID: 8516920915692414798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1783
+        width: 142
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74177d8daac96b90800000000000000
+      internalID: -7248039278524558212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1781
+        width: 170
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3768d3a5cc66250800000000000000
+      internalID: 5937657846685922294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1781
+        width: 179
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49849f6a8e7258b0800000000000000
+      internalID: -5164926689597945521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1781
+        width: 179
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48eb9070f50822f40800000000000000
+      internalID: 5702261223832796804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1781
+        width: 179
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972e1742e0a6127b0800000000000000
+      internalID: -5250799081563757959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1781
+        width: 181
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda542724fb9e81b0800000000000000
+      internalID: -5652409009372374305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1781
+        width: 182
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cee89c6e315c8e0800000000000000
+      internalID: -1673909804553278451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1781
+        width: 181
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afc36e84ee99fe70800000000000000
+      internalID: 9149518822458511270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 1781
+        width: 180
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb2a9c8353a514d0800000000000000
+      internalID: -3164443583921378305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 1781
+        width: 176
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bf6c425f21a3dc0800000000000000
+      internalID: -3658590903191798974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 1781
+        width: 174
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1990e12d5c0799250800000000000000
+      internalID: 5951912377482873233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 1783
+        width: 142
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0e930aa1ce86390800000000000000
+      internalID: -7824744753454784263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 1783
+        width: 144
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7d790dca4379b50800000000000000
+      internalID: 6599801695773382615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 1783
+        width: 146
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108bb1592a6009be0800000000000000
+      internalID: -1472669782794061823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 1783
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4cc2e8db00b03f0800000000000000
+      internalID: -933651683615128343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 1895
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1bbd2a12f12d470800000000000000
+      internalID: 8417824882835567042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 1783
+        width: 146
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83d1f692754e03d0800000000000000
+      internalID: -3238574723571788914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 1872
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e916f98c186a23df0800000000000000
+      internalID: -201915956931370594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1509
+        width: 152
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9041337a5e906c20800000000000000
+      internalID: 3197729846749905054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1509
+        width: 163
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2babca8fdde089030800000000000000
+      internalID: 3501565056803191474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1507
+        width: 146
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bf89fb4c654e3d0800000000000000
+      internalID: -3178320033988674740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1507
+        width: 140
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d765d70ad04b6e0800000000000000
+      internalID: -1822816966229459589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1507
+        width: 144
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8c19519dca3d7d0800000000000000
+      internalID: -2894780087099340620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1507
+        width: 142
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862d9cef4ebe3d450800000000000000
+      internalID: 6112488488031605352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1507
+        width: 150
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1c5002e99e2d740800000000000000
+      internalID: 5175455787153474016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1507
+        width: 150
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8563144ef21ec80800000000000000
+      internalID: -8295296381246613264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1507
+        width: 150
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afa9a393f5a98f90800000000000000
+      internalID: -6950842084296642652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1507
+        width: 149
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53f79d1069eb4aa0800000000000000
+      internalID: -6175585864985873572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 1509
+        width: 138
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39b3aa77718b4710800000000000000
+      internalID: 1678577636284283199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 1698
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb945def70c14e60800000000000000
+      internalID: 7944842873333390260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 1509
+        width: 138
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d6f1584fd15d860800000000000000
+      internalID: 7553976886026530129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1698
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2572bb28b00bca0800000000000000
+      internalID: -6003285647171300629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 1509
+        width: 138
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfa4119387ed4f60800000000000000
+      internalID: 8020321063677505486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 1694
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1c2d9ec21d993d0800000000000000
+      internalID: -3199296069438357053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 1509
+        width: 140
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131ffd9eec91ca840800000000000000
+      internalID: 5236588843202769201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 1694
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadeb6c393b1ae650800000000000000
+      internalID: 6262848164452887982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 1509
+        width: 140
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23ded66b29a34720800000000000000
+      internalID: 2829290994793370412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 1694
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395a218beb029eb20800000000000000
+      internalID: 3164096216708588947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 1509
+        width: 140
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf2ab7c304c48060800000000000000
+      internalID: 6954899245081702363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 1694
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60a5c48c497ec050800000000000000
+      internalID: 5822724737788649579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 1509
+        width: 140
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6f5ce0198516580800000000000000
+      internalID: -8835683613882845501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 1694
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70f4bfa66e9afcc0800000000000000
+      internalID: -3676451981922865028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 1509
+        width: 140
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77819e6a3e1fb3770800000000000000
+      internalID: 8591726674199517303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 1694
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5548886c67d35d470800000000000000
+      internalID: 8418702658785281109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1623
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55ff163db5abc330800000000000000
+      internalID: 3732258948282053983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1623
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce2f0f7480bee200800000000000000
+      internalID: 211300315646865089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1237
+        width: 140
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae8bfb7cef08cd50800000000000000
+      internalID: 6757668749236211366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1422
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234c036dd45000e90800000000000000
+      internalID: -7061638383852796878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1237
+        width: 140
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659c5f1118625f250800000000000000
+      internalID: 5977726416198158678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1426
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d85be42b1e1ede0800000000000000
+      internalID: -1305514261019783927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1237
+        width: 140
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b88fe008d7b9bcd0800000000000000
+      internalID: -2541798376317417295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1424
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934a399c385c6d550800000000000000
+      internalID: 6185348308053238841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1237
+        width: 140
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02156db2c6bc33a0800000000000000
+      internalID: -6684266799407230451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1427
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c243bbc563f86c2d0800000000000000
+      internalID: -3258759816709196756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1235
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb41efffabef8df0800000000000000
+      internalID: -175662719299400725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1235
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b95f7b4fce250f0800000000000000
+      internalID: -1129580020714071195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1235
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefe33dbe7561fab0800000000000000
+      internalID: -4976084518253105170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1235
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3036598fcd7ff4a0800000000000000
+      internalID: -6557384202112323525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1235
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb91b3e3b36838100800000000000000
+      internalID: 109078404992276926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1235
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e561829df70089b0800000000000000
+      internalID: -5080051594007845400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 1235
+        width: 142
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2750907f69ea6770800000000000000
+      internalID: 8604946702883903275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 1235
+        width: 146
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eebe85be56f51d0800000000000000
+      internalID: -3359854735511523802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 1235
+        width: 148
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e3c2ee7f88ad550800000000000000
+      internalID: 6186407636580974089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 1235
+        width: 150
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060556c9a6f50b470800000000000000
+      internalID: 8408325415795773536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 1235
+        width: 154
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d490cdce91aa36f0800000000000000
+      internalID: -704072688301206316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 1235
+        width: 156
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2497e4e0d4c58d0800000000000000
+      internalID: -2856323339818286427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 1235
+        width: 156
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a269bc4b87c513a40800000000000000
+      internalID: 5346155906164561450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 1235
+        width: 168
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1ffb2e0f46da1a0800000000000000
+      internalID: -6796665276873051659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 963
+        width: 168
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36331723a99ffc3c0800000000000000
+      internalID: -4336973475467938973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 963
+        width: 164
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a725cc754f12f00800000000000000
+      internalID: 1090421242727660142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 963
+        width: 160
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9db4c81f84d2380800000000000000
+      internalID: -8994452678510913065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 963
+        width: 157
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6085273f15c17d0f0800000000000000
+      internalID: -1092373246311770106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 963
+        width: 175
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17aa42ffe7cfa4b0800000000000000
+      internalID: -5426899192582068450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 963
+        width: 169
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4c5febb204b56e0800000000000000
+      internalID: -1847812665473907464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1127
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830bb38a69ac0a300800000000000000
+      internalID: 261431526803877944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 963
+        width: 169
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bb957025ed40d60800000000000000
+      internalID: 7855648093932993334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1127
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87894e93f99a35c0800000000000000
+      internalID: -4234903227976808562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 963
+        width: 177
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e707867092a5bd0800000000000000
+      internalID: -2640753119705661811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1127
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d17b9f88807a7f10800000000000000
+      internalID: 2268249094161658321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 963
+        width: 168
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dad52d7f87299900800000000000000
+      internalID: 691627515011521240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 963
+        width: 173
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816eb10f9df994af0800000000000000
+      internalID: -411622132542609896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-blockv0-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 963
+        width: 175
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa638ba6a110ab50800000000000000
+      internalID: 6602296461264906914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

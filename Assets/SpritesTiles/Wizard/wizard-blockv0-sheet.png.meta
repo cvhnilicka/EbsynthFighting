@@ -1,0 +1,4700 @@
+fileFormatVersion: 2
+guid: 7fa7da68e98994849b7363dc36300e1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1824242014376767840
+    second: wizard-blockv0-sheet_0
+  - first:
+      213: -5034800164610285616
+    second: wizard-blockv0-sheet_1
+  - first:
+      213: -1157091277084249192
+    second: wizard-blockv0-sheet_2
+  - first:
+      213: 1005009709782748704
+    second: wizard-blockv0-sheet_3
+  - first:
+      213: -8924955451714093179
+    second: wizard-blockv0-sheet_4
+  - first:
+      213: 447245645498717439
+    second: wizard-blockv0-sheet_5
+  - first:
+      213: 1407990209037105670
+    second: wizard-blockv0-sheet_6
+  - first:
+      213: -2581138679268303237
+    second: wizard-blockv0-sheet_7
+  - first:
+      213: -2819937052322872061
+    second: wizard-blockv0-sheet_8
+  - first:
+      213: -5817875575527037895
+    second: wizard-blockv0-sheet_9
+  - first:
+      213: 5177940064811864425
+    second: wizard-blockv0-sheet_10
+  - first:
+      213: -161158355893168410
+    second: wizard-blockv0-sheet_11
+  - first:
+      213: 2236603242880937104
+    second: wizard-blockv0-sheet_12
+  - first:
+      213: -4493684693088754924
+    second: wizard-blockv0-sheet_13
+  - first:
+      213: -2336212954574333316
+    second: wizard-blockv0-sheet_14
+  - first:
+      213: -2050808883259972515
+    second: wizard-blockv0-sheet_15
+  - first:
+      213: -255215612448246733
+    second: wizard-blockv0-sheet_16
+  - first:
+      213: 9149695322264213723
+    second: wizard-blockv0-sheet_17
+  - first:
+      213: -5166683750947103585
+    second: wizard-blockv0-sheet_18
+  - first:
+      213: -813555767680867408
+    second: wizard-blockv0-sheet_19
+  - first:
+      213: 8506759362452911533
+    second: wizard-blockv0-sheet_20
+  - first:
+      213: 4279202331474564106
+    second: wizard-blockv0-sheet_21
+  - first:
+      213: -8867041194782309676
+    second: wizard-blockv0-sheet_22
+  - first:
+      213: 2906621221478837019
+    second: wizard-blockv0-sheet_23
+  - first:
+      213: 894586429565125660
+    second: wizard-blockv0-sheet_24
+  - first:
+      213: 4987965192842940302
+    second: wizard-blockv0-sheet_25
+  - first:
+      213: -3402273009134746803
+    second: wizard-blockv0-sheet_26
+  - first:
+      213: -5484709429203258562
+    second: wizard-blockv0-sheet_27
+  - first:
+      213: 4833873463961447944
+    second: wizard-blockv0-sheet_28
+  - first:
+      213: -5935329394757291768
+    second: wizard-blockv0-sheet_29
+  - first:
+      213: -7980734168743693702
+    second: wizard-blockv0-sheet_30
+  - first:
+      213: 401599703427504335
+    second: wizard-blockv0-sheet_31
+  - first:
+      213: 1726136655812500949
+    second: wizard-blockv0-sheet_32
+  - first:
+      213: 2239869425579317444
+    second: wizard-blockv0-sheet_33
+  - first:
+      213: 6703970002589909508
+    second: wizard-blockv0-sheet_34
+  - first:
+      213: -5533652216995436068
+    second: wizard-blockv0-sheet_35
+  - first:
+      213: 3546385414276348007
+    second: wizard-blockv0-sheet_36
+  - first:
+      213: 5146906331148528801
+    second: wizard-blockv0-sheet_37
+  - first:
+      213: 4460904907284030616
+    second: wizard-blockv0-sheet_38
+  - first:
+      213: -194191823191038667
+    second: wizard-blockv0-sheet_39
+  - first:
+      213: 183579785745492058
+    second: wizard-blockv0-sheet_40
+  - first:
+      213: -6747008625565273850
+    second: wizard-blockv0-sheet_41
+  - first:
+      213: 4871076671475376003
+    second: wizard-blockv0-sheet_42
+  - first:
+      213: 4694411831626565784
+    second: wizard-blockv0-sheet_43
+  - first:
+      213: 6520380074760171772
+    second: wizard-blockv0-sheet_44
+  - first:
+      213: 3825986807763138888
+    second: wizard-blockv0-sheet_45
+  - first:
+      213: 2791419461517512846
+    second: wizard-blockv0-sheet_46
+  - first:
+      213: 3593506032253891420
+    second: wizard-blockv0-sheet_47
+  - first:
+      213: -3413886776207374353
+    second: wizard-blockv0-sheet_48
+  - first:
+      213: -1277819994025246114
+    second: wizard-blockv0-sheet_49
+  - first:
+      213: 9191903134188255533
+    second: wizard-blockv0-sheet_50
+  - first:
+      213: 4786051945967208432
+    second: wizard-blockv0-sheet_51
+  - first:
+      213: -836198360308114999
+    second: wizard-blockv0-sheet_52
+  - first:
+      213: 8790902903041680346
+    second: wizard-blockv0-sheet_53
+  - first:
+      213: -6537735597070223423
+    second: wizard-blockv0-sheet_54
+  - first:
+      213: 6330747731708997018
+    second: wizard-blockv0-sheet_55
+  - first:
+      213: 1424938837625682761
+    second: wizard-blockv0-sheet_56
+  - first:
+      213: -5007224201793571908
+    second: wizard-blockv0-sheet_57
+  - first:
+      213: -5296727721301882520
+    second: wizard-blockv0-sheet_58
+  - first:
+      213: -1988960592309659345
+    second: wizard-blockv0-sheet_59
+  - first:
+      213: 9050463795296586751
+    second: wizard-blockv0-sheet_60
+  - first:
+      213: -6338429849884358207
+    second: wizard-blockv0-sheet_61
+  - first:
+      213: -106927345014829478
+    second: wizard-blockv0-sheet_62
+  - first:
+      213: -1416460874371270782
+    second: wizard-blockv0-sheet_63
+  - first:
+      213: 3638321746212005573
+    second: wizard-blockv0-sheet_64
+  - first:
+      213: -6104253996441668984
+    second: wizard-blockv0-sheet_65
+  - first:
+      213: 6204397586023952822
+    second: wizard-blockv0-sheet_66
+  - first:
+      213: -4504172052086837336
+    second: wizard-blockv0-sheet_67
+  - first:
+      213: -577780860104999882
+    second: wizard-blockv0-sheet_68
+  - first:
+      213: 7501088443274323814
+    second: wizard-blockv0-sheet_69
+  - first:
+      213: -8547233384337328325
+    second: wizard-blockv0-sheet_70
+  - first:
+      213: 5021801852883064121
+    second: wizard-blockv0-sheet_71
+  - first:
+      213: -2135884056629933320
+    second: wizard-blockv0-sheet_72
+  - first:
+      213: 3938795001156136613
+    second: wizard-blockv0-sheet_73
+  - first:
+      213: -4238336225656360452
+    second: wizard-blockv0-sheet_74
+  - first:
+      213: 6490900264323982880
+    second: wizard-blockv0-sheet_75
+  - first:
+      213: 166728846821868809
+    second: wizard-blockv0-sheet_76
+  - first:
+      213: -5054251535107279011
+    second: wizard-blockv0-sheet_77
+  - first:
+      213: 2788843013046277192
+    second: wizard-blockv0-sheet_78
+  - first:
+      213: -7686714600366225756
+    second: wizard-blockv0-sheet_79
+  - first:
+      213: 3697733122283938790
+    second: wizard-blockv0-sheet_80
+  - first:
+      213: -1195632459015500359
+    second: wizard-blockv0-sheet_81
+  - first:
+      213: 3289883998004415152
+    second: wizard-blockv0-sheet_82
+  - first:
+      213: 8713190062377549288
+    second: wizard-blockv0-sheet_83
+  - first:
+      213: -2685354507497620094
+    second: wizard-blockv0-sheet_84
+  - first:
+      213: 2329523697002292997
+    second: wizard-blockv0-sheet_85
+  - first:
+      213: -139277076323061405
+    second: wizard-blockv0-sheet_86
+  - first:
+      213: 7688855731694318591
+    second: wizard-blockv0-sheet_87
+  - first:
+      213: -6617662951695975250
+    second: wizard-blockv0-sheet_88
+  - first:
+      213: 7380601891050499888
+    second: wizard-blockv0-sheet_89
+  - first:
+      213: 1437313463098780350
+    second: wizard-blockv0-sheet_90
+  - first:
+      213: 7686143570430341282
+    second: wizard-blockv0-sheet_91
+  - first:
+      213: 153900910149469331
+    second: wizard-blockv0-sheet_92
+  - first:
+      213: -7805894612145982326
+    second: wizard-blockv0-sheet_93
+  - first:
+      213: 5962162006423291519
+    second: wizard-blockv0-sheet_94
+  - first:
+      213: -8212753711875152969
+    second: wizard-blockv0-sheet_95
+  - first:
+      213: -4528940770424604204
+    second: wizard-blockv0-sheet_96
+  - first:
+      213: -3454806013240019450
+    second: wizard-blockv0-sheet_97
+  - first:
+      213: -9188741856844520927
+    second: wizard-blockv0-sheet_98
+  - first:
+      213: -4556080809039559378
+    second: wizard-blockv0-sheet_99
+  - first:
+      213: 6646314875851109653
+    second: wizard-blockv0-sheet_100
+  - first:
+      213: 5761463603488950509
+    second: wizard-blockv0-sheet_101
+  - first:
+      213: 1600423051262168864
+    second: wizard-blockv0-sheet_102
+  - first:
+      213: 4475963045781581161
+    second: wizard-blockv0-sheet_103
+  - first:
+      213: -2711512136689187454
+    second: wizard-blockv0-sheet_104
+  - first:
+      213: 6506850323830007819
+    second: wizard-blockv0-sheet_105
+  - first:
+      213: -8762210460144427911
+    second: wizard-blockv0-sheet_106
+  - first:
+      213: 4190724257871091196
+    second: wizard-blockv0-sheet_107
+  - first:
+      213: 8587808420772642802
+    second: wizard-blockv0-sheet_108
+  - first:
+      213: 6119632384732711661
+    second: wizard-blockv0-sheet_109
+  - first:
+      213: -4357226251401419174
+    second: wizard-blockv0-sheet_110
+  - first:
+      213: -7790866709346034268
+    second: wizard-blockv0-sheet_111
+  - first:
+      213: 5072304880562161548
+    second: wizard-blockv0-sheet_112
+  - first:
+      213: 1134608553047604086
+    second: wizard-blockv0-sheet_113
+  - first:
+      213: 7132885578763283160
+    second: wizard-blockv0-sheet_114
+  - first:
+      213: 4195574280361813537
+    second: wizard-blockv0-sheet_115
+  - first:
+      213: 7534548981469120244
+    second: wizard-blockv0-sheet_116
+  - first:
+      213: -8130491348247683735
+    second: wizard-blockv0-sheet_117
+  - first:
+      213: 7261417995711675289
+    second: wizard-blockv0-sheet_118
+  - first:
+      213: 3155029883539836607
+    second: wizard-blockv0-sheet_119
+  - first:
+      213: -2393198007038952187
+    second: wizard-blockv0-sheet_120
+  - first:
+      213: -8591651178127176910
+    second: wizard-blockv0-sheet_121
+  - first:
+      213: -8313198810687661413
+    second: wizard-blockv0-sheet_122
+  - first:
+      213: 4873923032257107432
+    second: wizard-blockv0-sheet_123
+  - first:
+      213: 2678294652612400521
+    second: wizard-blockv0-sheet_124
+  - first:
+      213: -1982942452263507893
+    second: wizard-blockv0-sheet_125
+  - first:
+      213: -1829075713618474152
+    second: wizard-blockv0-sheet_126
+  - first:
+      213: -3817194251714312697
+    second: wizard-blockv0-sheet_127
+  - first:
+      213: -1006141841229463416
+    second: wizard-blockv0-sheet_128
+  - first:
+      213: 2366461314075102039
+    second: wizard-blockv0-sheet_129
+  - first:
+      213: 7684416106460601366
+    second: wizard-blockv0-sheet_130
+  - first:
+      213: 3845993662684419497
+    second: wizard-blockv0-sheet_131
+  - first:
+      213: -6266639214365867875
+    second: wizard-blockv0-sheet_132
+  - first:
+      213: 4496540139963289619
+    second: wizard-blockv0-sheet_133
+  - first:
+      213: 2350392934199608643
+    second: wizard-blockv0-sheet_134
+  - first:
+      213: 8518147968885503540
+    second: wizard-blockv0-sheet_135
+  - first:
+      213: -8308844407629497496
+    second: wizard-blockv0-sheet_136
+  - first:
+      213: -8387528730436595145
+    second: wizard-blockv0-sheet_137
+  - first:
+      213: -6446278981449373854
+    second: wizard-blockv0-sheet_138
+  - first:
+      213: -2657971995528052041
+    second: wizard-blockv0-sheet_139
+  - first:
+      213: -9207987539238165923
+    second: wizard-blockv0-sheet_140
+  - first:
+      213: 4360641073922381137
+    second: wizard-blockv0-sheet_141
+  - first:
+      213: -5187018071712709816
+    second: wizard-blockv0-sheet_142
+  - first:
+      213: -4250146325658389919
+    second: wizard-blockv0-sheet_143
+  - first:
+      213: 7802041052330343635
+    second: wizard-blockv0-sheet_144
+  - first:
+      213: -3332794985508041316
+    second: wizard-blockv0-sheet_145
+  - first:
+      213: -4901032631688086502
+    second: wizard-blockv0-sheet_146
+  - first:
+      213: -8031693900703206981
+    second: wizard-blockv0-sheet_147
+  - first:
+      213: -9098666182306672591
+    second: wizard-blockv0-sheet_148
+  - first:
+      213: -8021922398440167745
+    second: wizard-blockv0-sheet_149
+  - first:
+      213: 4724074881595775533
+    second: wizard-blockv0-sheet_150
+  - first:
+      213: -229504785544311823
+    second: wizard-blockv0-sheet_151
+  - first:
+      213: -3912576491048223486
+    second: wizard-blockv0-sheet_152
+  - first:
+      213: 4555691699777129983
+    second: wizard-blockv0-sheet_153
+  - first:
+      213: 3078544879863966136
+    second: wizard-blockv0-sheet_154
+  - first:
+      213: -6977481706255500722
+    second: wizard-blockv0-sheet_155
+  - first:
+      213: 3030839207242446771
+    second: wizard-blockv0-sheet_156
+  - first:
+      213: 6581367298361699046
+    second: wizard-blockv0-sheet_157
+  - first:
+      213: -2775642218078479795
+    second: wizard-blockv0-sheet_158
+  - first:
+      213: -3227112914518975273
+    second: wizard-blockv0-sheet_159
+  - first:
+      213: -4301378165208732049
+    second: wizard-blockv0-sheet_160
+  - first:
+      213: 9185437882835164731
+    second: wizard-blockv0-sheet_161
+  - first:
+      213: 1957516060658175318
+    second: wizard-blockv0-sheet_162
+  - first:
+      213: -7906651656429714708
+    second: wizard-blockv0-sheet_163
+  - first:
+      213: -772679148076864943
+    second: wizard-blockv0-sheet_164
+  - first:
+      213: -9204612573610352986
+    second: wizard-blockv0-sheet_165
+  - first:
+      213: -7609029460733417508
+    second: wizard-blockv0-sheet_166
+  - first:
+      213: 1721920301118032974
+    second: wizard-blockv0-sheet_167
+  - first:
+      213: 81263635014751976
+    second: wizard-blockv0-sheet_168
+  - first:
+      213: -4187372812462074089
+    second: wizard-blockv0-sheet_169
+  - first:
+      213: -7636294515687197749
+    second: wizard-blockv0-sheet_170
+  - first:
+      213: -1214557809140010631
+    second: wizard-blockv0-sheet_171
+  - first:
+      213: -3695001269785221317
+    second: wizard-blockv0-sheet_172
+  - first:
+      213: -4660102787359213168
+    second: wizard-blockv0-sheet_173
+  - first:
+      213: -1077065299767671616
+    second: wizard-blockv0-sheet_174
+  - first:
+      213: 3610014169877794268
+    second: wizard-blockv0-sheet_175
+  - first:
+      213: 3414200387655211603
+    second: wizard-blockv0-sheet_176
+  - first:
+      213: 2387801318716738145
+    second: wizard-blockv0-sheet_177
+  - first:
+      213: 4669471937992475071
+    second: wizard-blockv0-sheet_178
+  - first:
+      213: 4759909178862786717
+    second: wizard-blockv0-sheet_179
+  - first:
+      213: 188358513778104395
+    second: wizard-blockv0-sheet_180
+  - first:
+      213: -1035621789245467776
+    second: wizard-blockv0-sheet_181
+  - first:
+      213: -3340453240016144765
+    second: wizard-blockv0-sheet_182
+  - first:
+      213: 8983841029665976142
+    second: wizard-blockv0-sheet_183
+  - first:
+      213: -8615381609073159752
+    second: wizard-blockv0-sheet_184
+  - first:
+      213: -3320543705550616385
+    second: wizard-blockv0-sheet_185
+  - first:
+      213: 7428371818249309420
+    second: wizard-blockv0-sheet_186
+  - first:
+      213: 450286830305096912
+    second: wizard-blockv0-sheet_187
+  - first:
+      213: -3139210064234903973
+    second: wizard-blockv0-sheet_188
+  - first:
+      213: 6043319176220645675
+    second: wizard-blockv0-sheet_189
+  - first:
+      213: -241000907831087444
+    second: wizard-blockv0-sheet_190
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3759
+        width: 150
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06135436272015910800000000000000
+      internalID: 1824242014376767840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3759
+        width: 150
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df53510debc02ab0800000000000000
+      internalID: -5034800164610285616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 3759
+        width: 150
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893b0b03d9f21ffe0800000000000000
+      internalID: -1157091277084249192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 3759
+        width: 150
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e4b6b910382fd00800000000000000
+      internalID: 1005009709782748704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 3759
+        width: 150
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f35689d40342480800000000000000
+      internalID: -8924955451714093179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 3759
+        width: 150
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff49a438b8fe43600800000000000000
+      internalID: 447245645498717439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 3759
+        width: 150
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a72e0a2af2a8310800000000000000
+      internalID: 1407990209037105670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 3759
+        width: 150
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e1132fb04fd2cd0800000000000000
+      internalID: -2581138679268303237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 4033
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305455b01329dd8d0800000000000000
+      internalID: -2819937052322872061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 4023
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9342a4d0df0c24fa0800000000000000
+      internalID: -5817875575527037895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 4033
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961df571e0dbbd740800000000000000
+      internalID: 5177940064811864425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 4023
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6d664445373cdf0800000000000000
+      internalID: -161158355893168410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 4033
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ca763acc20a0f10800000000000000
+      internalID: 2236603242880937104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 4023
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413a5d7849933a1c0800000000000000
+      internalID: -4493684693088754924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 4033
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a5ee212ba149fd0800000000000000
+      internalID: -2336212954574333316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 3787
+        width: 192
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54e213bf201a83e0800000000000000
+      internalID: -2050808883259972515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 3759
+        width: 150
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33473eea0ca457cf0800000000000000
+      internalID: -255215612448246733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 3759
+        width: 156
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd89c9e1b6f3afe70800000000000000
+      internalID: 9149695322264213723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 3759
+        width: 162
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cd306b0804c48b0800000000000000
+      internalID: -5166683750947103585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 3759
+        width: 166
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b36966f65ba5b4f0800000000000000
+      internalID: -813555767680867408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 3809
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5fbb4c1941e0670800000000000000
+      internalID: 8506759362452911533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 3787
+        width: 190
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04909929d7c26b30800000000000000
+      internalID: 4279202331474564106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 3809
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2ce305301f1f480800000000000000
+      internalID: -8867041194782309676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 3787
+        width: 192
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1babdad994665820800000000000000
+      internalID: 2906621221478837019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 3809
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c144d133e953a6c00800000000000000
+      internalID: 894586429565125660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 3787
+        width: 192
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f8a6f5aefc83540800000000000000
+      internalID: 4987965192842940302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 3809
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43cf9569b2b8c0d0800000000000000
+      internalID: -3402273009134746803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3729
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33ba1855d562e3b0800000000000000
+      internalID: -5484709429203258562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3443
+        width: 192
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eeb94fd4e551340800000000000000
+      internalID: 4833873463961447944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3729
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801be88bc5971ada0800000000000000
+      internalID: -5935329394757291768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 3443
+        width: 192
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72b539ae8cbe3190800000000000000
+      internalID: -7980734168743693702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 3729
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8d2b07dc4c29500800000000000000
+      internalID: 401599703427504335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3443
+        width: 194
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd1c7b942874f710800000000000000
+      internalID: 1726136655812500949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 3729
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8d9ee006d951f10800000000000000
+      internalID: 2239869425579317444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 3443
+        width: 196
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4020f3db239490d50800000000000000
+      internalID: 6703970002589909508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 3729
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd92f6f80a48433b0800000000000000
+      internalID: -5533652216995436068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 3443
+        width: 194
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7687196aeba473130800000000000000
+      internalID: 3546385414276348007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 3729
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac2158e90c7d6740800000000000000
+      internalID: 5146906331148528801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 3443
+        width: 194
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8942677d06158ed30800000000000000
+      internalID: 4460904907284030616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 3729
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535a960d0971e4df0800000000000000
+      internalID: -194191823191038667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 3443
+        width: 194
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a586d4da7d43c8200800000000000000
+      internalID: 183579785745492058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 3684
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6017fa8f66fcd52a0800000000000000
+      internalID: -6747008625565273850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 3443
+        width: 202
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f5bf4bc6a899340800000000000000
+      internalID: 4871076671475376003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 3684
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8980e7550b6e52140800000000000000
+      internalID: 4694411831626565784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 3443
+        width: 202
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf07d9ca12b0d7a50800000000000000
+      internalID: 6520380074760171772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 3685
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8497d001bb2a81530800000000000000
+      internalID: 3825986807763138888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 3443
+        width: 202
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e801ddee53d1db620800000000000000
+      internalID: 2791419461517512846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 3685
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5377b672b2bed130800000000000000
+      internalID: 3593506032253891420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 3443
+        width: 204
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe781c880107f90d0800000000000000
+      internalID: -3413886776207374353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 3685
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52cb315c75444ee0800000000000000
+      internalID: -1277819994025246114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 3443
+        width: 204
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2937132333309f70800000000000000
+      internalID: 9191903134188255533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 3685
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f741f323e87b6240800000000000000
+      internalID: 4786051945967208432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 3443
+        width: 204
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9121c850a3564f0800000000000000
+      internalID: -836198360308114999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 3685
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3efb63d9f8ff970800000000000000
+      internalID: 8790902903041680346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 3443
+        width: 206
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7f335ec1c4545a0800000000000000
+      internalID: -6537735597070223423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 3663
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9def1f25855bd750800000000000000
+      internalID: 6330747731708997018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 3663
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b365bb25666c310800000000000000
+      internalID: 1424938837625682761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3659
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3fa5d2e14c28ab0800000000000000
+      internalID: -5007224201793571908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3659
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86946d3633e3e76b0800000000000000
+      internalID: -5296727721301882520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 3659
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29d12711eac564e0800000000000000
+      internalID: -1988960592309659345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 3659
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbcf23ded4b99d70800000000000000
+      internalID: 9050463795296586751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 3659
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c909eb42af5908a0800000000000000
+      internalID: -6338429849884358207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 3659
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e8d9f652e148ef0800000000000000
+      internalID: -106927345014829478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 3659
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2877cd8e658b75ce0800000000000000
+      internalID: -1416460874371270782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 3443
+        width: 194
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6ab8df95aed7230800000000000000
+      internalID: 3638321746212005573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 3443
+        width: 196
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882f55bf455594ba0800000000000000
+      internalID: -6104253996441668984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3649
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1bf307bb27a1650800000000000000
+      internalID: 6204397586023952822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3650
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af2f1cf167fd71c0800000000000000
+      internalID: -4504172052086837336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 3650
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cfb637e5f4bf7f0800000000000000
+      internalID: -577780860104999882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 3650
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667672a5238391860800000000000000
+      internalID: 7501088443274323814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 3650
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37b63aa580226980800000000000000
+      internalID: -8547233384337328325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 3650
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9355e75bd2601b540800000000000000
+      internalID: 5021801852883064121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 3650
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa072354c0db52e0800000000000000
+      internalID: -2135884056629933320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 3461
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aeeef65f2969a630800000000000000
+      internalID: 3938795001156136613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 3461
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1351f88a76e25c0800000000000000
+      internalID: -4238336225656360452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 3459
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026258f666f441a50800000000000000
+      internalID: 6490900264323982880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 3459
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905c0a8b007505200800000000000000
+      internalID: 166728846821868809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 3459
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d573574e101bbd9b0800000000000000
+      internalID: -5054251535107279011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 3459
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84414f6c1f5f3b620800000000000000
+      internalID: 2788843013046277192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 3459
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6cc530ccd435590800000000000000
+      internalID: -7686714600366225756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 3379
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e32eebeeacf05330800000000000000
+      internalID: 3697733122283938790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 3093
+        width: 192
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd447efc92486fe0800000000000000
+      internalID: -1195632459015500359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 3093
+        width: 207
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba8b4dc01408ad20800000000000000
+      internalID: 3289883998004415152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 3379
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed3a7082387be870800000000000000
+      internalID: 8713190062377549288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 3381
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d3c949d44bbbad0800000000000000
+      internalID: -2685354507497620094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 3343
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5072da7c571245020800000000000000
+      internalID: 2329523697002292997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 3381
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b86cac30311ef0800000000000000
+      internalID: -139277076323061405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 3343
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3bdd8fc8d44ba60800000000000000
+      internalID: 7688855731694318591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 3381
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacf5e87b965924a0800000000000000
+      internalID: -6617662951695975250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 3343
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f24a8d05a2d6660800000000000000
+      internalID: 7380601891050499888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 3381
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaa3eebafc52f310800000000000000
+      internalID: 1437313463098780350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 3345
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a03728badaaaaa60800000000000000
+      internalID: 7686143570430341282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 3381
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3948118ff04c22200800000000000000
+      internalID: 153900910149469331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 3345
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8437e82534eba390800000000000000
+      internalID: -7805894612145982326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 3381
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76c03681caddb250800000000000000
+      internalID: 5962162006423291519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 3345
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b329e71300760e80800000000000000
+      internalID: -8212753711875152969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_96
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3093
+        width: 194
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9be0a5d58f521c0800000000000000
+      internalID: -4528940770424604204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_97
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 3315
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606f1fc3c301e00d0800000000000000
+      internalID: -3454806013240019450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_98
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 3093
+        width: 194
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122e40a17f70b7080800000000000000
+      internalID: -9188741856844520927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_99
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3315
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e250931b4ac85c0c0800000000000000
+      internalID: -4556080809039559378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_100
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 3093
+        width: 188
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515ff787a247c3c50800000000000000
+      internalID: 6646314875851109653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_101
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3313
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de80d403f94d4ff40800000000000000
+      internalID: 5761463603488950509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_102
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3093
+        width: 186
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f04d42948d53610800000000000000
+      internalID: 1600423051262168864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_103
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 3313
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d269beca0dd1e30800000000000000
+      internalID: 4475963045781581161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_104
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 3093
+        width: 184
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2850b70f316ce5ad0800000000000000
+      internalID: -2711512136689187454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_105
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 3313
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08e58e05e9fc4a50800000000000000
+      internalID: 6506850323830007819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 3091
+        width: 178
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c11ebb200666680800000000000000
+      internalID: -8762210460144427911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 3313
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5d4065281782a30800000000000000
+      internalID: 4190724257871091196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_108
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 3093
+        width: 190
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fff24f22460e2770800000000000000
+      internalID: 8587808420772642802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_109
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 3093
+        width: 190
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea48ff0b3d4de450800000000000000
+      internalID: 6119632384732711661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_110
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 3093
+        width: 190
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5626375fc50883c0800000000000000
+      internalID: -4357226251401419174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_111
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 3093
+        width: 190
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad5301710841e390800000000000000
+      internalID: -7790866709346034268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_112
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 3093
+        width: 205
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8743662a62746640800000000000000
+      internalID: 5072304880562161548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_113
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 3091
+        width: 205
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bb583b770febf00800000000000000
+      internalID: 1134608553047604086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_114
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 3091
+        width: 172
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da21b964a91df260800000000000000
+      internalID: 7132885578763283160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_115
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 3091
+        width: 174
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1262bb1349ca93a30800000000000000
+      internalID: 4195574280361813537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_116
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 3301
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f68f3ff068109860800000000000000
+      internalID: 7534548981469120244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_117
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 3301
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d5f4a2231ba2f80800000000000000
+      internalID: -8130491348247683735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_118
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 3301
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bf508c13db5c460800000000000000
+      internalID: 7261417995711675289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_119
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 3301
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe422886fae8cb20800000000000000
+      internalID: 3155029883539836607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_120
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 3301
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d3541a717a9ced0800000000000000
+      internalID: -2393198007038952187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_121
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 3301
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bc9a526c254c880800000000000000
+      internalID: -8591651178127176910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_122
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 3301
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a13c51ab591ac80800000000000000
+      internalID: -8313198810687661413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_123
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 3301
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e59748bc27a3a340800000000000000
+      internalID: 4873923032257107432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_124
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2741
+        width: 176
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9855accdbc63b2520800000000000000
+      internalID: 2678294652612400521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_125
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2741
+        width: 176
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48aac2885c2b74e0800000000000000
+      internalID: -1982942452263507893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_126
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2741
+        width: 176
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b0a7e4451dd96e0800000000000000
+      internalID: -1829075713618474152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_127
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2741
+        width: 176
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706c7eb6d0a960bc0800000000000000
+      internalID: -3817194251714312697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_128
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 2741
+        width: 178
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8804cdf73577902f0800000000000000
+      internalID: -1006141841229463416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_129
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2741
+        width: 180
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b8620f60c57d020800000000000000
+      internalID: 2366461314075102039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_130
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 2741
+        width: 182
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cdfdb2cb784aa60800000000000000
+      internalID: 7684416106460601366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_131
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 2741
+        width: 182
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a555b8fbd6bf5530800000000000000
+      internalID: 3845993662684419497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_132
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 2741
+        width: 182
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90803c26dc6809a0800000000000000
+      internalID: -6266639214365867875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_133
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 2741
+        width: 184
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3101cc00f6be66e30800000000000000
+      internalID: 4496540139963289619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_134
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 2741
+        width: 182
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3454e85bbe54e9020800000000000000
+      internalID: 2350392934199608643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_135
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 2741
+        width: 182
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436b2a5527a863670800000000000000
+      internalID: 8518147968885503540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_136
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 2741
+        width: 180
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bb04d880e01bc80800000000000000
+      internalID: -8308844407629497496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_137
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 2741
+        width: 181
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73291f60f03899b80800000000000000
+      internalID: -8387528730436595145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_138
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 2741
+        width: 180
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267a4a39b673a86a0800000000000000
+      internalID: -6446278981449373854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_139
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 2741
+        width: 180
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b24d977d8cfc1bd0800000000000000
+      internalID: -2657971995528052041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_140
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2391
+        width: 180
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d526c7b7e18a63080800000000000000
+      internalID: -9207987539238165923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_141
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2391
+        width: 178
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1551f1cf3fb148c30800000000000000
+      internalID: 4360641073922381137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_142
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2391
+        width: 178
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8434808bb820408b0800000000000000
+      internalID: -5187018071712709816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_143
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2391
+        width: 180
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16233bf5f627405c0800000000000000
+      internalID: -4250146325658389919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_144
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 2391
+        width: 178
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc3a27000b664c60800000000000000
+      internalID: 7802041052330343635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_145
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 2391
+        width: 178
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d079b5e988fb1d0800000000000000
+      internalID: -3332794985508041316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_146
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 2391
+        width: 180
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c32abc9c80cfbb0800000000000000
+      internalID: -4901032631688086502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_147
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2391
+        width: 178
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1f9e773f0b98090800000000000000
+      internalID: -8031693900703206981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_148
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 2391
+        width: 178
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13050c1605b0bb180800000000000000
+      internalID: -9098666182306672591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_149
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 2391
+        width: 178
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb66931a4186ca090800000000000000
+      internalID: -8021922398440167745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_150
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 2391
+        width: 180
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a9cd953194f8140800000000000000
+      internalID: 4724074881595775533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_151
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 2391
+        width: 180
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb016f0d92a0dcf0800000000000000
+      internalID: -229504785544311823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_152
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 2391
+        width: 180
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20db68e396cb3b9c0800000000000000
+      internalID: -3912576491048223486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_153
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 2391
+        width: 180
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd496fb671193f30800000000000000
+      internalID: 4555691699777129983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_154
+      rect:
+        serializedVersion: 2
+        x: 3535
+        y: 2391
+        width: 180
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9a365e14039ba20800000000000000
+      internalID: 3078544879863966136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_155
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 2393
+        width: 184
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4abadf3b510b2f90800000000000000
+      internalID: -6977481706255500722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_156
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2043
+        width: 184
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7330f6334bf0a20800000000000000
+      internalID: 3030839207242446771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_157
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2043
+        width: 184
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaa83330b6b55b50800000000000000
+      internalID: 6581367298361699046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_158
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2043
+        width: 184
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4adadfcb10fa79d0800000000000000
+      internalID: -2775642218078479795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_159
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2043
+        width: 182
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc5508f6edf633d0800000000000000
+      internalID: -3227112914518975273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_160
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 2043
+        width: 180
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eac12395f6e44c0800000000000000
+      internalID: -4301378165208732049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_161
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 2043
+        width: 176
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e5ec0861b397f70800000000000000
+      internalID: 9185437882835164731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_162
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 2043
+        width: 174
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d07ad5c7e7a2b10800000000000000
+      internalID: 1957516060658175318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_163
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 2043
+        width: 175
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2c0cfa53ee54290800000000000000
+      internalID: -7906651656429714708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_164
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 2043
+        width: 175
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ae68d9864e645f0800000000000000
+      internalID: -772679148076864943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_165
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 2043
+        width: 158
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae5cd6e1a5a24080800000000000000
+      internalID: -9204612573610352986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_166
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 2078
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7a083150c476690800000000000000
+      internalID: -7609029460733417508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_167
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 2043
+        width: 160
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c8ca7046d75e710800000000000000
+      internalID: 1721920301118032974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_168
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 2013
+        width: 184
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6163278d4b02100800000000000000
+      internalID: 81263635014751976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_169
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 2013
+        width: 184
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717d11bdc9673e5c0800000000000000
+      internalID: -4187372812462074089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_170
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 2013
+        width: 184
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc37338c89e660690800000000000000
+      internalID: -7636294515687197749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_171
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 2013
+        width: 182
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971780b8b16052fe0800000000000000
+      internalID: -1214557809140010631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_172
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 2013
+        width: 183
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37a5dd0ce7b8bcc0800000000000000
+      internalID: -3695001269785221317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_173
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1663
+        width: 184
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09975a6843df35fb0800000000000000
+      internalID: -4660102787359213168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_174
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1663
+        width: 184
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4c27ff0de7d01f0800000000000000
+      internalID: -1077065299767671616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_175
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1687
+        width: 170
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd41b5c2c8591230800000000000000
+      internalID: 3610014169877794268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_176
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1683
+        width: 170
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a9032d92da16f20800000000000000
+      internalID: 3414200387655211603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_177
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1679
+        width: 174
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a0254f5ac232120800000000000000
+      internalID: 2387801318716738145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_178
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1677
+        width: 176
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb142b8dcfb4dc040800000000000000
+      internalID: 4669471937992475071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_179
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1675
+        width: 178
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98dc39dd289e0240800000000000000
+      internalID: 4759909178862786717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_180
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1675
+        width: 176
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b481a20021f2d9200800000000000000
+      internalID: 188358513778104395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_181
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 1673
+        width: 180
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0839e5a387bb0a1f0800000000000000
+      internalID: -1035621789245467776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_182
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 1675
+        width: 181
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386f8080a7354a1d0800000000000000
+      internalID: -3340453240016144765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_183
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 1675
+        width: 180
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fe1db61d30dac70800000000000000
+      internalID: 8983841029665976142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_184
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 1675
+        width: 178
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1d2c2a214007880800000000000000
+      internalID: -8615381609073159752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_185
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 1675
+        width: 180
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb80f71c71f0be1d0800000000000000
+      internalID: -3320543705550616385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_186
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 1663
+        width: 184
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecc54ebfc0e61760800000000000000
+      internalID: 7428371818249309420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_187
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 1663
+        width: 182
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d43f578c7dbf3600800000000000000
+      internalID: 450286830305096912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_188
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 1663
+        width: 184
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5682fd24194f64d0800000000000000
+      internalID: -3139210064234903973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_189
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1315
+        width: 184
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2910fa95ce2ed350800000000000000
+      internalID: 6043319176220645675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-blockv0-sheet_190
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1315
+        width: 184
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae6e2283fac7acf0800000000000000
+      internalID: -241000907831087444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

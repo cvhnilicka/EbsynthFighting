@@ -1,0 +1,2108 @@
+fileFormatVersion: 2
+guid: 8f511ceeef61544889eac259d27728a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3179158506385777508
+    second: idleanimsheet_0
+  - first:
+      213: -5352211945269548262
+    second: idleanimsheet_1
+  - first:
+      213: 2033817726159048384
+    second: idleanimsheet_2
+  - first:
+      213: 5498083829700828197
+    second: idleanimsheet_3
+  - first:
+      213: 3687194091987907600
+    second: idleanimsheet_4
+  - first:
+      213: -481094901403798745
+    second: idleanimsheet_5
+  - first:
+      213: -965130392131496106
+    second: idleanimsheet_6
+  - first:
+      213: 170124587196500774
+    second: idleanimsheet_7
+  - first:
+      213: -7263340566342804854
+    second: idleanimsheet_8
+  - first:
+      213: 5854799563761824903
+    second: idleanimsheet_9
+  - first:
+      213: 2203690190621073907
+    second: idleanimsheet_10
+  - first:
+      213: -6679531052705821931
+    second: idleanimsheet_11
+  - first:
+      213: 4349038788866807795
+    second: idleanimsheet_12
+  - first:
+      213: -8852299086734140831
+    second: idleanimsheet_13
+  - first:
+      213: -8639536174458334437
+    second: idleanimsheet_14
+  - first:
+      213: 7203658546146778793
+    second: idleanimsheet_15
+  - first:
+      213: -5880614123674784406
+    second: idleanimsheet_16
+  - first:
+      213: -8301329900063877722
+    second: idleanimsheet_17
+  - first:
+      213: -5816450157659593062
+    second: idleanimsheet_18
+  - first:
+      213: -3006280628143282816
+    second: idleanimsheet_19
+  - first:
+      213: -1622764619310475219
+    second: idleanimsheet_20
+  - first:
+      213: -1429897462192809146
+    second: idleanimsheet_21
+  - first:
+      213: 107836334160745874
+    second: idleanimsheet_22
+  - first:
+      213: 2943940161649868654
+    second: idleanimsheet_23
+  - first:
+      213: 4072670470995711249
+    second: idleanimsheet_24
+  - first:
+      213: -5182544286713798681
+    second: idleanimsheet_25
+  - first:
+      213: 2936808049198389166
+    second: idleanimsheet_26
+  - first:
+      213: 5189160799109816818
+    second: idleanimsheet_27
+  - first:
+      213: -73279387300558997
+    second: idleanimsheet_28
+  - first:
+      213: 3242546931207794663
+    second: idleanimsheet_29
+  - first:
+      213: 2864935410311311609
+    second: idleanimsheet_30
+  - first:
+      213: -3823612735302053150
+    second: idleanimsheet_31
+  - first:
+      213: 6857346773736693744
+    second: idleanimsheet_32
+  - first:
+      213: -8705955349857117697
+    second: idleanimsheet_33
+  - first:
+      213: 5640562811270412850
+    second: idleanimsheet_34
+  - first:
+      213: 7342770213832147804
+    second: idleanimsheet_35
+  - first:
+      213: -5827695184640116363
+    second: idleanimsheet_36
+  - first:
+      213: -9101326062638387996
+    second: idleanimsheet_37
+  - first:
+      213: -246811381824632032
+    second: idleanimsheet_38
+  - first:
+      213: -2827442157042018032
+    second: idleanimsheet_39
+  - first:
+      213: -5202120053632495152
+    second: idleanimsheet_40
+  - first:
+      213: 412422657344853376
+    second: idleanimsheet_41
+  - first:
+      213: -2283754731160525732
+    second: idleanimsheet_42
+  - first:
+      213: -2799539258142824955
+    second: idleanimsheet_43
+  - first:
+      213: 802589947415486520
+    second: idleanimsheet_44
+  - first:
+      213: -3244908744028150178
+    second: idleanimsheet_45
+  - first:
+      213: -8032291769586798832
+    second: idleanimsheet_46
+  - first:
+      213: -8566702129639249032
+    second: idleanimsheet_47
+  - first:
+      213: 2034453581198530573
+    second: idleanimsheet_48
+  - first:
+      213: 8940121535685806312
+    second: idleanimsheet_49
+  - first:
+      213: -6279202355706762116
+    second: idleanimsheet_50
+  - first:
+      213: 1405671655383643539
+    second: idleanimsheet_51
+  - first:
+      213: 8433656730401123946
+    second: idleanimsheet_52
+  - first:
+      213: -7221553474629080162
+    second: idleanimsheet_53
+  - first:
+      213: 4948733880662355625
+    second: idleanimsheet_54
+  - first:
+      213: -5637984499131844850
+    second: idleanimsheet_55
+  - first:
+      213: 1663289158759279018
+    second: idleanimsheet_56
+  - first:
+      213: -263152124462297710
+    second: idleanimsheet_57
+  - first:
+      213: 6760067986219524613
+    second: idleanimsheet_58
+  - first:
+      213: -3253034917073465008
+    second: idleanimsheet_59
+  - first:
+      213: 6337940140913043615
+    second: idleanimsheet_60
+  - first:
+      213: 8842223692531386481
+    second: idleanimsheet_61
+  - first:
+      213: 4453548438694081692
+    second: idleanimsheet_62
+  - first:
+      213: -925169220210145180
+    second: idleanimsheet_63
+  - first:
+      213: 7879774219196099062
+    second: idleanimsheet_64
+  - first:
+      213: -290976863922973585
+    second: idleanimsheet_65
+  - first:
+      213: 3989843572749494694
+    second: idleanimsheet_66
+  - first:
+      213: 6657579930714185284
+    second: idleanimsheet_67
+  - first:
+      213: 4010836118508475905
+    second: idleanimsheet_68
+  - first:
+      213: -1537517472187849520
+    second: idleanimsheet_69
+  - first:
+      213: 7580894023510661014
+    second: idleanimsheet_70
+  - first:
+      213: -2295002008917192151
+    second: idleanimsheet_71
+  - first:
+      213: 3940370093579083626
+    second: idleanimsheet_72
+  - first:
+      213: 5867004966270816912
+    second: idleanimsheet_73
+  - first:
+      213: -7333756305338256192
+    second: idleanimsheet_74
+  - first:
+      213: 7183550407650988832
+    second: idleanimsheet_75
+  - first:
+      213: 6528691436458275593
+    second: idleanimsheet_76
+  - first:
+      213: 1206962846388586836
+    second: idleanimsheet_77
+  - first:
+      213: 8048773880864228644
+    second: idleanimsheet_78
+  - first:
+      213: 520425563439097499
+    second: idleanimsheet_79
+  - first:
+      213: -6392248196463539261
+    second: idleanimsheet_80
+  - first:
+      213: 571870429659460551
+    second: idleanimsheet_81
+  - first:
+      213: -7335153593136123674
+    second: idleanimsheet_82
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idleanimsheet_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3687
+        width: 168
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46329c151d3ae1c20800000000000000
+      internalID: 3179158506385777508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3679
+        width: 168
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b2b9fc79f19b5b0800000000000000
+      internalID: -5352211945269548262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_2
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 3685
+        width: 168
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce4a914272993c10800000000000000
+      internalID: 2033817726159048384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_3
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 3685
+        width: 166
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c13aeec1e1d4c40800000000000000
+      internalID: 5498083829700828197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_4
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 3679
+        width: 166
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014bbd6bd7b8b2330800000000000000
+      internalID: 3687194091987907600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_5
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 3687
+        width: 166
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72333927cbec259f0800000000000000
+      internalID: -481094901403798745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_6
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 3679
+        width: 166
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6579117950b2b92f0800000000000000
+      internalID: -965130392131496106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_7
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 3717
+        width: 168
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b486329676c5200800000000000000
+      internalID: 170124587196500774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_8
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 3691
+        width: 168
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ad37cdc3e633b90800000000000000
+      internalID: -7263340566342804854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_9
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 3709
+        width: 168
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784b225ee2d604150800000000000000
+      internalID: 5854799563761824903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_10
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 3691
+        width: 166
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f16bfe7d84159e10800000000000000
+      internalID: 2203690190621073907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_11
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 3707
+        width: 168
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b4741b5e98d43a0800000000000000
+      internalID: -6679531052705821931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_12
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 3687
+        width: 166
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f71dcc7cb3ea5c30800000000000000
+      internalID: 4349038788866807795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_13
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 3707
+        width: 168
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a52b1d1e0562580800000000000000
+      internalID: -8852299086734140831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_14
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 3707
+        width: 168
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b131641af933a1880800000000000000
+      internalID: -8639536174458334437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_15
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 3707
+        width: 168
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae1946f74988f360800000000000000
+      internalID: 7203658546146778793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3247
+        width: 166
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d28318c9cd36ea0800000000000000
+      internalID: -5880614123674784406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_17
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3247
+        width: 166
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a51d5f2070cbcc80800000000000000
+      internalID: -8301329900063877722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_18
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 3237
+        width: 166
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a966fe20661d74fa0800000000000000
+      internalID: -5816450157659593062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_19
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 3235
+        width: 166
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085a16852bb8746d0800000000000000
+      internalID: -3006280628143282816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_20
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 3235
+        width: 166
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d285def2d28ca79e0800000000000000
+      internalID: -1622764619310475219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_21
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 3235
+        width: 164
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bd3c485dbf72ce0800000000000000
+      internalID: -1429897462192809146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_22
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 3235
+        width: 164
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2951887139c1f7100800000000000000
+      internalID: 107836334160745874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_23
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 3235
+        width: 166
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f7527baf9fad820800000000000000
+      internalID: 2943940161649868654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_24
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 3235
+        width: 166
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1151ce62738058830800000000000000
+      internalID: 4072670470995711249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_25
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 3235
+        width: 164
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef91b5fd67e318b0800000000000000
+      internalID: -5182544286713798681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_26
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 3235
+        width: 164
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea75af16c53a1c820800000000000000
+      internalID: 2936808049198389166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_27
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 3235
+        width: 166
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1a251e04a930840800000000000000
+      internalID: 5189160799109816818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_28
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 3261
+        width: 166
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67879619c8abfef0800000000000000
+      internalID: -73279387300558997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_29
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 3235
+        width: 164
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef6c221147dffc20800000000000000
+      internalID: 3242546931207794663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_30
+      rect:
+        serializedVersion: 2
+        x: 3571
+        y: 3235
+        width: 164
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f03b0c939b42c720800000000000000
+      internalID: 2864935410311311609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_31
+      rect:
+        serializedVersion: 2
+        x: 3819
+        y: 3235
+        width: 166
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e259a1c97ccfeac0800000000000000
+      internalID: -3823612735302053150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2791
+        width: 166
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff1f361f803a2f50800000000000000
+      internalID: 6857346773736693744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_33
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2791
+        width: 168
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9da554cbb3e2780800000000000000
+      internalID: -8705955349857117697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_34
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2791
+        width: 168
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a3d0bedfd474e40800000000000000
+      internalID: 5640562811270412850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_35
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2791
+        width: 172
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53c8c61b92c6e560800000000000000
+      internalID: 7342770213832147804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_36
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 2791
+        width: 172
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57975442b1edf1fa0800000000000000
+      internalID: -5827695184640116363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_37
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 2791
+        width: 174
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec2f6bba2891b180800000000000000
+      internalID: -9101326062638387996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_38
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 2791
+        width: 174
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bc1db1b56239cf0800000000000000
+      internalID: -246811381824632032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_39
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2791
+        width: 176
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019db8ea658e2c8d0800000000000000
+      internalID: -2827442157042018032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_40
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 2791
+        width: 176
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d19c4c8f5b5ec7b0800000000000000
+      internalID: -5202120053632495152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_41
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 2791
+        width: 176
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085dc54c83839b500800000000000000
+      internalID: 412422657344853376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_42
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 2791
+        width: 178
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c542f0ffb297e40e0800000000000000
+      internalID: -2283754731160525732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_43
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 2791
+        width: 176
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506e2a790e90629d0800000000000000
+      internalID: -2799539258142824955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_44
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 2791
+        width: 176
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830effb0e4f532b00800000000000000
+      internalID: 802589947415486520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_45
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 2791
+        width: 176
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56a4a780b4c7f2d0800000000000000
+      internalID: -3244908744028150178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_46
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 2791
+        width: 174
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f2c754131978090800000000000000
+      internalID: -8032291769586798832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_47
+      rect:
+        serializedVersion: 2
+        x: 3813
+        y: 2791
+        width: 172
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b254a2dc5fc1980800000000000000
+      internalID: -8566702129639249032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_48
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2347
+        width: 172
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d081c5bc0c4db3c10800000000000000
+      internalID: 2034453581198530573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_49
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2347
+        width: 172
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e84f5f7b21b11c70800000000000000
+      internalID: 8940121535685806312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_50
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2347
+        width: 172
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c6d43e9bacbd8a0800000000000000
+      internalID: -6279202355706762116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_51
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2347
+        width: 172
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3953af94ce2f18310800000000000000
+      internalID: 1405671655383643539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_52
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 2347
+        width: 172
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e2425ec1e5a0570800000000000000
+      internalID: 8433656730401123946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_53
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 2347
+        width: 172
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bee325063e7cb90800000000000000
+      internalID: -7221553474629080162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_54
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 2347
+        width: 172
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aee1d4be3f6da440800000000000000
+      internalID: 4948733880662355625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_55
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 2347
+        width: 172
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07761828fad1c1b0800000000000000
+      internalID: -5637984499131844850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_56
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 2347
+        width: 172
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9ea9a6da0351710800000000000000
+      internalID: 1663289158759279018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_57
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2347
+        width: 172
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d098b7988195cf0800000000000000
+      internalID: -263152124462297710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_58
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 2347
+        width: 172
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502ea10640690dd50800000000000000
+      internalID: 6760067986219524613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_59
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 2347
+        width: 172
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051d4ed6af5ead2d0800000000000000
+      internalID: -3253034917073465008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_60
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 2347
+        width: 170
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98afc27af2e4f750800000000000000
+      internalID: 6337940140913043615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_61
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 2347
+        width: 170
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17840e9a993e5ba70800000000000000
+      internalID: 8842223692531386481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_62
+      rect:
+        serializedVersion: 2
+        x: 3565
+        y: 2347
+        width: 170
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c943b5685be2ecd30800000000000000
+      internalID: 4453548438694081692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_63
+      rect:
+        serializedVersion: 2
+        x: 3813
+        y: 2347
+        width: 172
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468cf38fe732923f0800000000000000
+      internalID: -925169220210145180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_64
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1903
+        width: 170
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9e67d47e49a5d60800000000000000
+      internalID: 7879774219196099062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_65
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1903
+        width: 170
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64930c751e36fbf0800000000000000
+      internalID: -290976863922973585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_66
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1903
+        width: 170
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9eb1f1795ce5730800000000000000
+      internalID: 3989843572749494694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_67
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1903
+        width: 172
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e1df17ca9746c50800000000000000
+      internalID: 6657579930714185284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_68
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1903
+        width: 170
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1061100133a59a730800000000000000
+      internalID: 4010836118508475905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_69
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1903
+        width: 170
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d469425104a9aae0800000000000000
+      internalID: -1537517472187849520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_70
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1903
+        width: 170
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6971c37f2feb43960800000000000000
+      internalID: 7580894023510661014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_71
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1903
+        width: 170
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922dea315d38620e0800000000000000
+      internalID: -2295002008917192151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_72
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1903
+        width: 170
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f9a5f19b10fa630800000000000000
+      internalID: 3940370093579083626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_73
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1903
+        width: 170
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092560e9ee9cb6150800000000000000
+      internalID: 5867004966270816912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_74
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 1903
+        width: 170
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c438070f73493a90800000000000000
+      internalID: -7333756305338256192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_75
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 1903
+        width: 172
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0235622290911b360800000000000000
+      internalID: 7183550407650988832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_76
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 1903
+        width: 174
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903fa3e55429a9a50800000000000000
+      internalID: 6528691436458275593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_77
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 1903
+        width: 176
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4590614605effb010800000000000000
+      internalID: 1206962846388586836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_78
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 1903
+        width: 176
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425ca5e433df2bf60800000000000000
+      internalID: 8048773880864228644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_79
+      rect:
+        serializedVersion: 2
+        x: 3809
+        y: 1903
+        width: 176
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96e1d8ea4ce83700800000000000000
+      internalID: 520425563439097499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_80
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1459
+        width: 176
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbc8a5022c2a47a0800000000000000
+      internalID: -6392248196463539261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_81
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1459
+        width: 178
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3f6693021bfe700800000000000000
+      internalID: 571870429659460551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idleanimsheet_82
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1459
+        width: 178
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0f03c9bac443a90800000000000000
+      internalID: -7335153593136123674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

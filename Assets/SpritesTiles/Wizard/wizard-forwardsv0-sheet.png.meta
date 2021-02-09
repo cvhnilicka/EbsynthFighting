@@ -1,0 +1,2444 @@
+fileFormatVersion: 2
+guid: b7e72974cf0214cf4bbc6f0dae7f2e5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2005058907581276417
+    second: wizard-forwardsv0-sheet_0
+  - first:
+      213: 1115406789131262570
+    second: wizard-forwardsv0-sheet_1
+  - first:
+      213: 7168377210797603039
+    second: wizard-forwardsv0-sheet_2
+  - first:
+      213: -5262124573323416035
+    second: wizard-forwardsv0-sheet_3
+  - first:
+      213: 2170183216010271058
+    second: wizard-forwardsv0-sheet_4
+  - first:
+      213: 3906548428102399023
+    second: wizard-forwardsv0-sheet_5
+  - first:
+      213: -6449594018155016188
+    second: wizard-forwardsv0-sheet_6
+  - first:
+      213: 2449184045705780080
+    second: wizard-forwardsv0-sheet_7
+  - first:
+      213: 8670316422177017726
+    second: wizard-forwardsv0-sheet_8
+  - first:
+      213: 599392370414396715
+    second: wizard-forwardsv0-sheet_9
+  - first:
+      213: -7282247022207286789
+    second: wizard-forwardsv0-sheet_10
+  - first:
+      213: 3324241186539706370
+    second: wizard-forwardsv0-sheet_11
+  - first:
+      213: 4103810060116998567
+    second: wizard-forwardsv0-sheet_12
+  - first:
+      213: -3084794984813132413
+    second: wizard-forwardsv0-sheet_13
+  - first:
+      213: 1303661028499685365
+    second: wizard-forwardsv0-sheet_14
+  - first:
+      213: 7152708034361393236
+    second: wizard-forwardsv0-sheet_15
+  - first:
+      213: -7816567852776888076
+    second: wizard-forwardsv0-sheet_16
+  - first:
+      213: -4834280874238257110
+    second: wizard-forwardsv0-sheet_17
+  - first:
+      213: 2160635350231329962
+    second: wizard-forwardsv0-sheet_18
+  - first:
+      213: 4286614876925381564
+    second: wizard-forwardsv0-sheet_19
+  - first:
+      213: -758237191318249662
+    second: wizard-forwardsv0-sheet_20
+  - first:
+      213: 7839682178160073352
+    second: wizard-forwardsv0-sheet_21
+  - first:
+      213: -2847739404503319769
+    second: wizard-forwardsv0-sheet_22
+  - first:
+      213: 3238707672478207733
+    second: wizard-forwardsv0-sheet_23
+  - first:
+      213: 720096215640878624
+    second: wizard-forwardsv0-sheet_24
+  - first:
+      213: 2660726400010331052
+    second: wizard-forwardsv0-sheet_25
+  - first:
+      213: -5322197408810914693
+    second: wizard-forwardsv0-sheet_26
+  - first:
+      213: -1902751612751857454
+    second: wizard-forwardsv0-sheet_27
+  - first:
+      213: 7556517353450110904
+    second: wizard-forwardsv0-sheet_28
+  - first:
+      213: -1865482620508928750
+    second: wizard-forwardsv0-sheet_29
+  - first:
+      213: -8196513905099381515
+    second: wizard-forwardsv0-sheet_30
+  - first:
+      213: 1374784096675798110
+    second: wizard-forwardsv0-sheet_31
+  - first:
+      213: 6234062165613701923
+    second: wizard-forwardsv0-sheet_32
+  - first:
+      213: 8705162771760426805
+    second: wizard-forwardsv0-sheet_33
+  - first:
+      213: 2912953882198457911
+    second: wizard-forwardsv0-sheet_34
+  - first:
+      213: -9078847943745252101
+    second: wizard-forwardsv0-sheet_35
+  - first:
+      213: -8674793991615846312
+    second: wizard-forwardsv0-sheet_36
+  - first:
+      213: 5094622878760406340
+    second: wizard-forwardsv0-sheet_37
+  - first:
+      213: 3113100488550572257
+    second: wizard-forwardsv0-sheet_38
+  - first:
+      213: -6155356936939998632
+    second: wizard-forwardsv0-sheet_39
+  - first:
+      213: -1709846758586730616
+    second: wizard-forwardsv0-sheet_40
+  - first:
+      213: 983815236612376675
+    second: wizard-forwardsv0-sheet_41
+  - first:
+      213: 5978913796274565892
+    second: wizard-forwardsv0-sheet_42
+  - first:
+      213: -8363162047013813118
+    second: wizard-forwardsv0-sheet_43
+  - first:
+      213: -7269272014614273359
+    second: wizard-forwardsv0-sheet_44
+  - first:
+      213: 538289173622629108
+    second: wizard-forwardsv0-sheet_45
+  - first:
+      213: 1349346959244219933
+    second: wizard-forwardsv0-sheet_46
+  - first:
+      213: -919406175837337194
+    second: wizard-forwardsv0-sheet_47
+  - first:
+      213: -8829271317058719682
+    second: wizard-forwardsv0-sheet_48
+  - first:
+      213: 275763233306852878
+    second: wizard-forwardsv0-sheet_49
+  - first:
+      213: -5918458102623064144
+    second: wizard-forwardsv0-sheet_50
+  - first:
+      213: 1717243699924510123
+    second: wizard-forwardsv0-sheet_51
+  - first:
+      213: 6824201871022454515
+    second: wizard-forwardsv0-sheet_52
+  - first:
+      213: -373338265329846700
+    second: wizard-forwardsv0-sheet_53
+  - first:
+      213: 2949781534862027092
+    second: wizard-forwardsv0-sheet_54
+  - first:
+      213: 1734331662682156026
+    second: wizard-forwardsv0-sheet_55
+  - first:
+      213: 5711914115589882621
+    second: wizard-forwardsv0-sheet_56
+  - first:
+      213: -8264285491439659190
+    second: wizard-forwardsv0-sheet_57
+  - first:
+      213: -5070007530891428812
+    second: wizard-forwardsv0-sheet_58
+  - first:
+      213: -5716289728120943838
+    second: wizard-forwardsv0-sheet_59
+  - first:
+      213: -6022027089175080348
+    second: wizard-forwardsv0-sheet_60
+  - first:
+      213: -1831767294218672748
+    second: wizard-forwardsv0-sheet_61
+  - first:
+      213: -9151020259776032286
+    second: wizard-forwardsv0-sheet_62
+  - first:
+      213: 4957809649972831694
+    second: wizard-forwardsv0-sheet_63
+  - first:
+      213: -5468559953733919337
+    second: wizard-forwardsv0-sheet_64
+  - first:
+      213: -837077638315826362
+    second: wizard-forwardsv0-sheet_65
+  - first:
+      213: -5289540684052439836
+    second: wizard-forwardsv0-sheet_66
+  - first:
+      213: -7871970173447556591
+    second: wizard-forwardsv0-sheet_67
+  - first:
+      213: -5969315049058549557
+    second: wizard-forwardsv0-sheet_68
+  - first:
+      213: -2922035374825157785
+    second: wizard-forwardsv0-sheet_69
+  - first:
+      213: 9007678381821125878
+    second: wizard-forwardsv0-sheet_70
+  - first:
+      213: -3160709487821194866
+    second: wizard-forwardsv0-sheet_71
+  - first:
+      213: 6047171151131602781
+    second: wizard-forwardsv0-sheet_72
+  - first:
+      213: 2559425748581434535
+    second: wizard-forwardsv0-sheet_73
+  - first:
+      213: -2643070405017593546
+    second: wizard-forwardsv0-sheet_74
+  - first:
+      213: 1142227429823515708
+    second: wizard-forwardsv0-sheet_75
+  - first:
+      213: -3147484119273589559
+    second: wizard-forwardsv0-sheet_76
+  - first:
+      213: 1279173122096832875
+    second: wizard-forwardsv0-sheet_77
+  - first:
+      213: -5730993247691313944
+    second: wizard-forwardsv0-sheet_78
+  - first:
+      213: -465268870437053306
+    second: wizard-forwardsv0-sheet_79
+  - first:
+      213: -2436488426136588584
+    second: wizard-forwardsv0-sheet_80
+  - first:
+      213: 2348426141116914561
+    second: wizard-forwardsv0-sheet_81
+  - first:
+      213: 5489395906567209489
+    second: wizard-forwardsv0-sheet_82
+  - first:
+      213: -6985850409111843435
+    second: wizard-forwardsv0-sheet_83
+  - first:
+      213: -673678859573985101
+    second: wizard-forwardsv0-sheet_84
+  - first:
+      213: -391216961024173324
+    second: wizard-forwardsv0-sheet_85
+  - first:
+      213: -6085349221398890808
+    second: wizard-forwardsv0-sheet_86
+  - first:
+      213: 8077021976678949384
+    second: wizard-forwardsv0-sheet_87
+  - first:
+      213: -599847898159548452
+    second: wizard-forwardsv0-sheet_88
+  - first:
+      213: -296024182657322040
+    second: wizard-forwardsv0-sheet_89
+  - first:
+      213: -8362395597563556686
+    second: wizard-forwardsv0-sheet_90
+  - first:
+      213: 4674809832937056651
+    second: wizard-forwardsv0-sheet_91
+  - first:
+      213: 6449932559646731660
+    second: wizard-forwardsv0-sheet_92
+  - first:
+      213: 6011897382074225138
+    second: wizard-forwardsv0-sheet_93
+  - first:
+      213: -4908426406068694131
+    second: wizard-forwardsv0-sheet_94
+  - first:
+      213: -4084088596439272904
+    second: wizard-forwardsv0-sheet_95
+  - first:
+      213: 5779542787493707524
+    second: wizard-forwardsv0-sheet_96
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 216
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1761
+        width: 162
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1016d14047663db10800000000000000
+      internalID: 2005058907581276417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1761
+        width: 160
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a5a36a098ba7f00800000000000000
+      internalID: 1115406789131262570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1761
+        width: 162
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8b891f7113b7360800000000000000
+      internalID: 7168377210797603039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1761
+        width: 162
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e243b949d29f6b0800000000000000
+      internalID: -5262124573323416035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1761
+        width: 162
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2599ec7032a0e1e10800000000000000
+      internalID: 2170183216010271058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1761
+        width: 160
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2477eaf819d63630800000000000000
+      internalID: 3906548428102399023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1761
+        width: 162
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400d26279607e76a0800000000000000
+      internalID: -6449594018155016188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1761
+        width: 162
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bd8d9c9ef3df120800000000000000
+      internalID: 2449184045705780080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1761
+        width: 162
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fc81249d6235870800000000000000
+      internalID: 8670316422177017726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1761
+        width: 160
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2521a76f28715800800000000000000
+      internalID: 599392370414396715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 1765
+        width: 198
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf140b29ae240fa90800000000000000
+      internalID: -7282247022207286789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 1765
+        width: 196
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2081c6f1fb3122e20800000000000000
+      internalID: 3324241186539706370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 1765
+        width: 194
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9b2fab189a3f830800000000000000
+      internalID: 4103810060116998567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 1765
+        width: 194
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3858e452e4b9035d0800000000000000
+      internalID: -3084794984813132413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 1765
+        width: 198
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff7e3f5cc8871210800000000000000
+      internalID: 1303661028499685365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 1765
+        width: 196
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45081328f06834360800000000000000
+      internalID: 7152708034361393236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1467
+        width: 194
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8ee7ca3f8f58390800000000000000
+      internalID: -7816567852776888076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1467
+        width: 196
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a285092782f29ecb0800000000000000
+      internalID: -4834280874238257110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1467
+        width: 198
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaca0bb476e1cfd10800000000000000
+      internalID: 2160635350231329962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1467
+        width: 196
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbca04e48d1d7b30800000000000000
+      internalID: 4286614876925381564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1467
+        width: 194
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f5cf3ba433a75f0800000000000000
+      internalID: -758237191318249662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1467
+        width: 196
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a113597652ccc60800000000000000
+      internalID: 7839682178160073352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1467
+        width: 198
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b72bd791cca78d0800000000000000
+      internalID: -2847739404503319769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1467
+        width: 196
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe456df77332fc20800000000000000
+      internalID: 3238707672478207733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 1467
+        width: 194
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ea06161bb4ef900800000000000000
+      internalID: 720096215640878624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1465
+        width: 198
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3ae1d409ccce420800000000000000
+      internalID: 2660726400010331052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 1467
+        width: 198
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c2257a7a1c326b0800000000000000
+      internalID: -5322197408810914693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 1467
+        width: 196
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8bf1a4d711895e0800000000000000
+      internalID: -1902751612751857454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 1461
+        width: 165
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bff77f2f742ed860800000000000000
+      internalID: 7556517353450110904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 1461
+        width: 166
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21586edb0797c16e0800000000000000
+      internalID: -1865482620508928750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 1461
+        width: 170
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f46002c702204e80800000000000000
+      internalID: -8196513905099381515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 1461
+        width: 170
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c973d1ad6341310800000000000000
+      internalID: 1374784096675798110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1163
+        width: 170
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b6b199286d38650800000000000000
+      internalID: 6234062165613701923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1163
+        width: 170
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f2cb24b63fec870800000000000000
+      internalID: 8705162771760426805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1163
+        width: 166
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73eb8835f14ec6820800000000000000
+      internalID: 2912953882198457911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1163
+        width: 162
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4574f95e3710280800000000000000
+      internalID: -9078847943745252101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1163
+        width: 166
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8586b0e53d0fc9780800000000000000
+      internalID: -8674793991615846312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1163
+        width: 164
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d8719048cb3b640800000000000000
+      internalID: 5094622878760406340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1163
+        width: 166
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0e6228664f33b20800000000000000
+      internalID: 3113100488550572257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1163
+        width: 170
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85274f37a77c39aa0800000000000000
+      internalID: -6155356936939998632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 1163
+        width: 174
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887b516ae676548e0800000000000000
+      internalID: -1709846758586730616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 1163
+        width: 174
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368c5e6ceb637ad00800000000000000
+      internalID: 983815236612376675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 1163
+        width: 176
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403b0a98b6e59f250800000000000000
+      internalID: 5978913796274565892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 1175
+        width: 154
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28486bc9d6410fb80800000000000000
+      internalID: -8363162047013813118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 1175
+        width: 154
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b26a31fd9b5e1b90800000000000000
+      internalID: -7269272014614273359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 1175
+        width: 154
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f22734c623687700800000000000000
+      internalID: 538289173622629108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 1175
+        width: 152
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16518809e7d9b210800000000000000
+      internalID: 1349346959244219933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 3811
+        y: 1175
+        width: 152
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6994aec44fc9d33f0800000000000000
+      internalID: -919406175837337194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 877
+        width: 152
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e307b214480287580800000000000000
+      internalID: -8829271317058719682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 877
+        width: 152
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e3e5b1335b3d300800000000000000
+      internalID: 275763233306852878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 877
+        width: 152
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfae1786b96ddda0800000000000000
+      internalID: -5918458102623064144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 881
+        width: 158
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba527c6fb00e4d710800000000000000
+      internalID: 1717243699924510123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 883
+        width: 158
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f679dd027f64be50800000000000000
+      internalID: 6824201871022454515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 883
+        width: 156
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45634f163d2a1daf0800000000000000
+      internalID: -373338265329846700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 883
+        width: 156
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45925766daabfe820800000000000000
+      internalID: 2949781534862027092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 883
+        width: 156
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbe1e45575911810800000000000000
+      internalID: 1734331662682156026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 883
+        width: 156
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2464700abc44f40800000000000000
+      internalID: 5711914115589882621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 883
+        width: 154
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a471350b12c5f4d80800000000000000
+      internalID: -8264285491439659190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 883
+        width: 154
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c39a04307b3a9b0800000000000000
+      internalID: -5070007530891428812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 883
+        width: 154
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b032a47c8aba0b0800000000000000
+      internalID: -5716289728120943838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 883
+        width: 156
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46290f9b4467d6ca0800000000000000
+      internalID: -6022027089175080348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 877
+        width: 158
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495eaecd9514496e0800000000000000
+      internalID: -1831767294218672748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 3471
+        y: 1029
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e195a3de8b010180800000000000000
+      internalID: -9151020259776032286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 877
+        width: 158
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec562aaeb9dadc440800000000000000
+      internalID: 4957809649972831694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 1029
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d53cc12b5cb14b0800000000000000
+      internalID: -5468559953733919337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 877
+        width: 156
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64323cea25a1264f0800000000000000
+      internalID: -837077638315826362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 3973
+        y: 1021
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecd316e5c6c796b0800000000000000
+      internalID: -5289540684052439836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 3481
+        y: 1021
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1123031b5d421c290800000000000000
+      internalID: -7871970173447556591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 1021
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0c874f69bb82da0800000000000000
+      internalID: -5969315049058549557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 579
+        width: 156
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bcb66ee48d277d0800000000000000
+      internalID: -2922035374825157785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 723
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4e96773c3b10d70800000000000000
+      internalID: 9007678381821125878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 579
+        width: 154
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89f53c8777e224d0800000000000000
+      internalID: -3160709487821194866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 723
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f60376f1edbe350800000000000000
+      internalID: 6047171151131602781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 579
+        width: 154
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a44f2d6828e48320800000000000000
+      internalID: 2559425748581434535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 729
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6391490687de15bd0800000000000000
+      internalID: -2643070405017593546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 577
+        width: 152
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c865fabc10adf00800000000000000
+      internalID: 1142227429823515708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 577
+        width: 150
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4b38e9ed3e154d0800000000000000
+      internalID: -3147484119273589559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 577
+        width: 152
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b612fcc5d2980c110800000000000000
+      internalID: 1279173122096832875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 577
+        width: 156
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec623d510c6770b0800000000000000
+      internalID: -5730993247691313944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 577
+        width: 158
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c5d8c6d680b89f0800000000000000
+      internalID: -465268870437053306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 577
+        width: 156
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de27cc7faadf2ed0800000000000000
+      internalID: -2436488426136588584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 577
+        width: 158
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bd3820229479020800000000000000
+      internalID: 2348426141116914561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 579
+        width: 154
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1120c623e704e2c40800000000000000
+      internalID: 5489395906567209489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 579
+        width: 153
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d0fd6c0164d0f90800000000000000
+      internalID: -6985850409111843435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 579
+        width: 153
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0076285ac96a6f0800000000000000
+      internalID: -673678859573985101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 579
+        width: 154
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fadb082f3e129af0800000000000000
+      internalID: -391216961024173324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 579
+        width: 155
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6b15cef1f7c8ba0800000000000000
+      internalID: -6085349221398890808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 579
+        width: 157
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802e8f2a1b8571070800000000000000
+      internalID: 8077021976678949384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 723
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd77fe6c389eca7f0800000000000000
+      internalID: -599847898159548452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 721
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3f8c3039f44ebf0800000000000000
+      internalID: -296024182657322040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 721
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc0fe7828dc2fb80800000000000000
+      internalID: -8362395597563556686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 721
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8967bc56c240e040800000000000000
+      internalID: 4674809832937056651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 721
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d28f26d73c28950800000000000000
+      internalID: 6449932559646731660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 3733
+        y: 721
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f192ac01dc8e6350800000000000000
+      internalID: 6011897382074225138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 721
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83d02c8034c1ebb0800000000000000
+      internalID: -4908426406068694131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 281
+        width: 158
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832730a5f076257c0800000000000000
+      internalID: -4084088596439272904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard-forwardsv0-sheet_96
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 423
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fbbbc3b8f053050800000000000000
+      internalID: 5779542787493707524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

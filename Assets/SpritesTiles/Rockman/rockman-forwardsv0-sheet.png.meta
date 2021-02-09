@@ -1,0 +1,788 @@
+fileFormatVersion: 2
+guid: 5f4b9abf7e8f64c749bce1649012ad4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3344970188766961134
+    second: rockman-forwardsv0-sheet_0
+  - first:
+      213: -7704328180026574835
+    second: rockman-forwardsv0-sheet_1
+  - first:
+      213: -3245723718974262999
+    second: rockman-forwardsv0-sheet_2
+  - first:
+      213: 6163063058240836579
+    second: rockman-forwardsv0-sheet_3
+  - first:
+      213: -4153318380049255406
+    second: rockman-forwardsv0-sheet_4
+  - first:
+      213: -2335427909277613738
+    second: rockman-forwardsv0-sheet_5
+  - first:
+      213: 3428381896693300128
+    second: rockman-forwardsv0-sheet_6
+  - first:
+      213: 6468133272195542167
+    second: rockman-forwardsv0-sheet_7
+  - first:
+      213: 820905876881742921
+    second: rockman-forwardsv0-sheet_8
+  - first:
+      213: -7027524740391913204
+    second: rockman-forwardsv0-sheet_9
+  - first:
+      213: -6585655883601312371
+    second: rockman-forwardsv0-sheet_10
+  - first:
+      213: 1751664412337046770
+    second: rockman-forwardsv0-sheet_11
+  - first:
+      213: 3803973999531955639
+    second: rockman-forwardsv0-sheet_12
+  - first:
+      213: -6493084723270186086
+    second: rockman-forwardsv0-sheet_13
+  - first:
+      213: -6936235423113331755
+    second: rockman-forwardsv0-sheet_14
+  - first:
+      213: -237978386313791377
+    second: rockman-forwardsv0-sheet_15
+  - first:
+      213: -8400242448266848844
+    second: rockman-forwardsv0-sheet_16
+  - first:
+      213: -2437369452916281227
+    second: rockman-forwardsv0-sheet_17
+  - first:
+      213: -7408569431786322166
+    second: rockman-forwardsv0-sheet_18
+  - first:
+      213: 8120768797111197651
+    second: rockman-forwardsv0-sheet_19
+  - first:
+      213: 8445113179761179626
+    second: rockman-forwardsv0-sheet_20
+  - first:
+      213: 4849607519330377568
+    second: rockman-forwardsv0-sheet_21
+  - first:
+      213: 9213375024603245113
+    second: rockman-forwardsv0-sheet_22
+  - first:
+      213: -4155101487118511910
+    second: rockman-forwardsv0-sheet_23
+  - first:
+      213: -7119152102234561160
+    second: rockman-forwardsv0-sheet_24
+  - first:
+      213: 1161041747920072851
+    second: rockman-forwardsv0-sheet_25
+  - first:
+      213: -7807495850154378150
+    second: rockman-forwardsv0-sheet_26
+  - first:
+      213: 7083507205440266893
+    second: rockman-forwardsv0-sheet_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 216
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 782
+        width: 151
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedd9bd0aa8bb6e20800000000000000
+      internalID: 3344970188766961134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 782
+        width: 151
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08fb7ce65ab41590800000000000000
+      internalID: -7704328180026574835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 782
+        width: 150
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921ba73697fd4f2d0800000000000000
+      internalID: -3245723718974262999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 782
+        width: 147
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e317cab239978550800000000000000
+      internalID: 6163063058240836579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 777
+        width: 179
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214301640f27c56c0800000000000000
+      internalID: -4153318380049255406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 777
+        width: 174
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65189fca0b4e69fd0800000000000000
+      internalID: -2335427909277613738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 777
+        width: 170
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abb8c2bb2f049f20800000000000000
+      internalID: 3428381896693300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 776
+        width: 165
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ca91101fc63c950800000000000000
+      internalID: 6468133272195542167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 776
+        width: 162
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c1191bb81746b00800000000000000
+      internalID: 820905876881742921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 526
+        width: 164
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09bba66b77397e90800000000000000
+      internalID: -7027524740391913204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 527
+        width: 168
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d858bfcbddc0b94a0800000000000000
+      internalID: -6585655883601312371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 584
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f40b0790892f4810800000000000000
+      internalID: 1751664412337046770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 526
+        width: 171
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b59ce0c23e6ac430800000000000000
+      internalID: 3803973999531955639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 524
+        width: 174
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b07f498dde3e5a0800000000000000
+      internalID: -6493084723270186086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 521
+        width: 149
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db39d6e1aa8dbf90800000000000000
+      internalID: -6936235423113331755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 521
+        width: 150
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68bb832be782bcf0800000000000000
+      internalID: -237978386313791377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 521
+        width: 151
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b595ebeff75c6b80800000000000000
+      internalID: -8400242448266848844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 521
+        width: 152
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57079847569bc2ed0800000000000000
+      internalID: -2437369452916281227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 521
+        width: 150
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a070f84aa597f2990800000000000000
+      internalID: -7408569431786322166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 261
+        width: 155
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df93eef134c2b070800000000000000
+      internalID: 8120768797111197651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 261
+        width: 153
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb72af51b1133570800000000000000
+      internalID: 8445113179761179626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 261
+        width: 153
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f10c138544d4340800000000000000
+      internalID: 4849607519330377568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 261
+        width: 153
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aaee335cb7cdf70800000000000000
+      internalID: 9213375024603245113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 261
+        width: 153
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad09a9e463d1656c0800000000000000
+      internalID: -4155101487118511910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 261
+        width: 153
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8756554c1e0b33d90800000000000000
+      internalID: -7119152102234561160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 263
+        width: 137
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390bc2a7159dc1010800000000000000
+      internalID: 1161041747920072851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 263
+        width: 136
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c3632e3e336a390800000000000000
+      internalID: -7807495850154378150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockman-forwardsv0-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 263
+        width: 137
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82ef28f54cad4260800000000000000
+      internalID: 7083507205440266893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

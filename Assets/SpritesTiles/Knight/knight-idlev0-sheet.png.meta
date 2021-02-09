@@ -1,0 +1,2228 @@
+fileFormatVersion: 2
+guid: b86c3816bed0c4e04b3131942cd70c2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9222737719321399149
+    second: knight-idlev0-sheet_0
+  - first:
+      213: 3021164424774011819
+    second: knight-idlev0-sheet_1
+  - first:
+      213: 2041979215020685448
+    second: knight-idlev0-sheet_2
+  - first:
+      213: -5080711659140442052
+    second: knight-idlev0-sheet_3
+  - first:
+      213: 3635175262442956825
+    second: knight-idlev0-sheet_4
+  - first:
+      213: 8034929561321324646
+    second: knight-idlev0-sheet_5
+  - first:
+      213: -1905736567479113425
+    second: knight-idlev0-sheet_6
+  - first:
+      213: -5906396756168861924
+    second: knight-idlev0-sheet_7
+  - first:
+      213: 5425437817349853407
+    second: knight-idlev0-sheet_8
+  - first:
+      213: 1081136827297813210
+    second: knight-idlev0-sheet_9
+  - first:
+      213: -8232058341208122742
+    second: knight-idlev0-sheet_10
+  - first:
+      213: 7196894984975741659
+    second: knight-idlev0-sheet_11
+  - first:
+      213: -1082890746517666456
+    second: knight-idlev0-sheet_12
+  - first:
+      213: -3023297974824191954
+    second: knight-idlev0-sheet_13
+  - first:
+      213: -8375573854347863513
+    second: knight-idlev0-sheet_14
+  - first:
+      213: -7845702850734381750
+    second: knight-idlev0-sheet_15
+  - first:
+      213: -7383970200816743157
+    second: knight-idlev0-sheet_16
+  - first:
+      213: 9084111900223804122
+    second: knight-idlev0-sheet_17
+  - first:
+      213: 4000120102816628706
+    second: knight-idlev0-sheet_18
+  - first:
+      213: -2059346416301618581
+    second: knight-idlev0-sheet_19
+  - first:
+      213: -283637930865531006
+    second: knight-idlev0-sheet_20
+  - first:
+      213: -5678709623682175307
+    second: knight-idlev0-sheet_21
+  - first:
+      213: -2674849590296494000
+    second: knight-idlev0-sheet_22
+  - first:
+      213: 3170138425352308520
+    second: knight-idlev0-sheet_23
+  - first:
+      213: 5896450314943241931
+    second: knight-idlev0-sheet_24
+  - first:
+      213: -2995380539604833144
+    second: knight-idlev0-sheet_25
+  - first:
+      213: -8695391980798245662
+    second: knight-idlev0-sheet_26
+  - first:
+      213: 7279843262452569492
+    second: knight-idlev0-sheet_27
+  - first:
+      213: -235998663797100595
+    second: knight-idlev0-sheet_28
+  - first:
+      213: -7948677890600633188
+    second: knight-idlev0-sheet_29
+  - first:
+      213: -1488694913243513444
+    second: knight-idlev0-sheet_30
+  - first:
+      213: -3073241783265096506
+    second: knight-idlev0-sheet_31
+  - first:
+      213: -8164969643232196815
+    second: knight-idlev0-sheet_32
+  - first:
+      213: 2754583931250062926
+    second: knight-idlev0-sheet_33
+  - first:
+      213: -5218289006615844233
+    second: knight-idlev0-sheet_34
+  - first:
+      213: 1415678342976715653
+    second: knight-idlev0-sheet_35
+  - first:
+      213: -5481293113043046254
+    second: knight-idlev0-sheet_36
+  - first:
+      213: -7778738528883525
+    second: knight-idlev0-sheet_37
+  - first:
+      213: -2607752774287748333
+    second: knight-idlev0-sheet_38
+  - first:
+      213: -4462360192335798986
+    second: knight-idlev0-sheet_39
+  - first:
+      213: 5951356598805449919
+    second: knight-idlev0-sheet_40
+  - first:
+      213: 7240728808360813766
+    second: knight-idlev0-sheet_41
+  - first:
+      213: -3132667464013695740
+    second: knight-idlev0-sheet_42
+  - first:
+      213: -452400115286219954
+    second: knight-idlev0-sheet_43
+  - first:
+      213: 1988305655806473034
+    second: knight-idlev0-sheet_44
+  - first:
+      213: -8191274287941333467
+    second: knight-idlev0-sheet_45
+  - first:
+      213: 6219433008485129943
+    second: knight-idlev0-sheet_46
+  - first:
+      213: 5338391621958700457
+    second: knight-idlev0-sheet_47
+  - first:
+      213: -982079863138296145
+    second: knight-idlev0-sheet_48
+  - first:
+      213: -5220648228039454448
+    second: knight-idlev0-sheet_49
+  - first:
+      213: 8036535864770092077
+    second: knight-idlev0-sheet_50
+  - first:
+      213: 4813183795424019798
+    second: knight-idlev0-sheet_51
+  - first:
+      213: -1902411720880100613
+    second: knight-idlev0-sheet_52
+  - first:
+      213: 5415634759017724532
+    second: knight-idlev0-sheet_53
+  - first:
+      213: 5704344545247619339
+    second: knight-idlev0-sheet_54
+  - first:
+      213: 4746251214063648585
+    second: knight-idlev0-sheet_55
+  - first:
+      213: -1324025575912410552
+    second: knight-idlev0-sheet_56
+  - first:
+      213: -147693399163882130
+    second: knight-idlev0-sheet_57
+  - first:
+      213: -9074514290348962987
+    second: knight-idlev0-sheet_58
+  - first:
+      213: 3275579295402178947
+    second: knight-idlev0-sheet_59
+  - first:
+      213: 6856545535978986733
+    second: knight-idlev0-sheet_60
+  - first:
+      213: -835806095837857646
+    second: knight-idlev0-sheet_61
+  - first:
+      213: -4018489699334776138
+    second: knight-idlev0-sheet_62
+  - first:
+      213: 4622447037402602455
+    second: knight-idlev0-sheet_63
+  - first:
+      213: 1188952614164783179
+    second: knight-idlev0-sheet_64
+  - first:
+      213: -6238777640794673208
+    second: knight-idlev0-sheet_65
+  - first:
+      213: -3456180196140331434
+    second: knight-idlev0-sheet_66
+  - first:
+      213: -4319835255442169232
+    second: knight-idlev0-sheet_67
+  - first:
+      213: 8709220533658625970
+    second: knight-idlev0-sheet_68
+  - first:
+      213: 1055201245112225970
+    second: knight-idlev0-sheet_69
+  - first:
+      213: -2092815540995561336
+    second: knight-idlev0-sheet_70
+  - first:
+      213: 1030745007489212213
+    second: knight-idlev0-sheet_71
+  - first:
+      213: 7225322305165144374
+    second: knight-idlev0-sheet_72
+  - first:
+      213: 6750846216352609913
+    second: knight-idlev0-sheet_73
+  - first:
+      213: 3580297457227782413
+    second: knight-idlev0-sheet_74
+  - first:
+      213: 6757751726736017247
+    second: knight-idlev0-sheet_75
+  - first:
+      213: -813224999624057281
+    second: knight-idlev0-sheet_76
+  - first:
+      213: -4727796512249967335
+    second: knight-idlev0-sheet_77
+  - first:
+      213: -269712012810483434
+    second: knight-idlev0-sheet_78
+  - first:
+      213: 6221544179897694216
+    second: knight-idlev0-sheet_79
+  - first:
+      213: 756347852368163316
+    second: knight-idlev0-sheet_80
+  - first:
+      213: 4927652556933981813
+    second: knight-idlev0-sheet_81
+  - first:
+      213: -1730725589538441141
+    second: knight-idlev0-sheet_82
+  - first:
+      213: 8974389312674173760
+    second: knight-idlev0-sheet_83
+  - first:
+      213: 7566106938464009474
+    second: knight-idlev0-sheet_84
+  - first:
+      213: 2545204522486918246
+    second: knight-idlev0-sheet_85
+  - first:
+      213: -926670486187901418
+    second: knight-idlev0-sheet_86
+  - first:
+      213: -8981174450285460563
+    second: knight-idlev0-sheet_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1727
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390704f88e0420080800000000000000
+      internalID: -9222737719321399149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1727
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babc3ba99055de920800000000000000
+      internalID: 3021164424774011819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1727
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888f906f641965c10800000000000000
+      internalID: 2041979215020685448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1727
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c389fbe2aafad79b0800000000000000
+      internalID: -5080711659140442052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1727
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918233624acb27230800000000000000
+      internalID: 3635175262442956825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1727
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660c7d97dddc18f60800000000000000
+      internalID: 8034929561321324646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1727
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f296feb50b67d85e0800000000000000
+      internalID: -1905736567479113425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1727
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1719069173480ea0800000000000000
+      internalID: -5906396756168861924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1727
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0db1e13f60b4b40800000000000000
+      internalID: 5425437817349853407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 1727
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2dda06738f00f00800000000000000
+      internalID: 1081136827297813210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 1727
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a9ff1dd8ad1cd80800000000000000
+      internalID: -8232058341208122742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 1727
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2f449abd180e360800000000000000
+      internalID: 7196894984975741659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 1727
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865c14b7a9cc8f0f0800000000000000
+      internalID: -1082890746517666456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 1727
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28327092861b06d0800000000000000
+      internalID: -3023297974824191954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 1725
+        width: 166
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72adb8584fbf3cb80800000000000000
+      internalID: -8375573854347863513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 1725
+        width: 166
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4525b853d67e1390800000000000000
+      internalID: -7845702850734381750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 1725
+        width: 168
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d8f3c693ed68990800000000000000
+      internalID: -7383970200816743157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 1725
+        width: 168
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad21db0c4af311e70800000000000000
+      internalID: 9084111900223804122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1389
+        width: 170
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efb84b3a08438730800000000000000
+      internalID: 4000120102816628706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1389
+        width: 172
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a4ed2685bbb63e0800000000000000
+      internalID: -2059346416301618581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1389
+        width: 174
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287eeedfdc0501cf0800000000000000
+      internalID: -283637930865531006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1389
+        width: 174
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bee4d13fab2131b0800000000000000
+      internalID: -5678709623682175307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1389
+        width: 176
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05047c6387601ead0800000000000000
+      internalID: -2674849590296494000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1389
+        width: 176
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827c0fb0a189efb20800000000000000
+      internalID: 3170138425352308520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1389
+        width: 176
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce9ee9125664d150800000000000000
+      internalID: 5896450314943241931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1389
+        width: 176
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c6cb9f4454e66d0800000000000000
+      internalID: -2995380539604833144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1389
+        width: 176
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e48db94013c35780800000000000000
+      internalID: -8695391980798245662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1389
+        width: 174
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495910f70e2370560800000000000000
+      internalID: 7279843262452569492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 1389
+        width: 174
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf28e4377099bcf0800000000000000
+      internalID: -235998663797100595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 1389
+        width: 174
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c7fb8829f90b190800000000000000
+      internalID: -7948677890600633188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 1389
+        width: 174
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d70352dd7175be0800000000000000
+      internalID: -1488694913243513444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 1389
+        width: 172
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc889f71e6a955d0800000000000000
+      internalID: -3073241783265096506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 1389
+        width: 170
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1370c4d8e5330be80800000000000000
+      internalID: -8164969643232196815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 1389
+        width: 168
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46b826bd7f3a3620800000000000000
+      internalID: 2754583931250062926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 1389
+        width: 168
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a2651dbc9e497b0800000000000000
+      internalID: -5218289006615844233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 1389
+        width: 166
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b375dc3ff75a310800000000000000
+      internalID: 1415678342976715653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1055
+        width: 164
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290364f64f88ee3b0800000000000000
+      internalID: -5481293113043046254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1055
+        width: 165
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc6f2d474d54eff0800000000000000
+      internalID: -7778738528883525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1055
+        width: 166
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3131a821ba66fcbd0800000000000000
+      internalID: -2607752774287748333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1055
+        width: 166
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d1bf33c038212c0800000000000000
+      internalID: -4462360192335798986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1055
+        width: 166
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcc9738b47779250800000000000000
+      internalID: 5951356598805449919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1055
+        width: 166
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4a849fc7c3c7460800000000000000
+      internalID: 7240728808360813766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1055
+        width: 168
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4053a000a878684d0800000000000000
+      internalID: -3132667464013695740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1055
+        width: 166
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43e408fd70c8b9f0800000000000000
+      internalID: -452400115286219954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1055
+        width: 166
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43be3f9571e79b10800000000000000
+      internalID: 1988305655806473034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1055
+        width: 164
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e47713f6fb25e80800000000000000
+      internalID: -8191274287941333467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 1055
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de58178e5ddf4650800000000000000
+      internalID: 6219433008485129943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 1055
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad05ca65e6c51a40800000000000000
+      internalID: 5338391621958700457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 1055
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faed3985193fe52f0800000000000000
+      internalID: -982079863138296145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 1055
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0119f66c8188c87b0800000000000000
+      internalID: -5220648228039454448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 1055
+        width: 164
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cde442ac2878f60800000000000000
+      internalID: 8036535864770092077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 1055
+        width: 160
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6554aec192ddbc240800000000000000
+      internalID: 4813183795424019798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 1055
+        width: 160
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfae6688e964995e0800000000000000
+      internalID: -1902411720880100613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 1055
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a728cbe13382b40800000000000000
+      internalID: 5415634759017724532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 719
+        width: 162
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09ebe71427e92f40800000000000000
+      internalID: 5704344545247619339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 723
+        width: 176
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fb70d15521ed140800000000000000
+      internalID: 4746251214063648585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 723
+        width: 174
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8427532f0cd10ade0800000000000000
+      internalID: -1324025575912410552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 723
+        width: 174
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65ba2fc2a943fdf0800000000000000
+      internalID: -147693399163882130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 723
+        width: 172
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b4b8ee459d01280800000000000000
+      internalID: -9074514290348962987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 723
+        width: 170
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3893210b302357d20800000000000000
+      internalID: 3275579295402178947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 723
+        width: 170
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec515266d7572f50800000000000000
+      internalID: 6856545535978986733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 723
+        width: 170
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2987a7cb8ce9664f0800000000000000
+      internalID: -835806095837857646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 723
+        width: 170
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba9599c8e47b38c0800000000000000
+      internalID: -4018489699334776138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 723
+        width: 170
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db5079f61b362040800000000000000
+      internalID: 4622447037402602455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 723
+        width: 172
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40601e6a12008010800000000000000
+      internalID: 1188952614164783179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 723
+        width: 170
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfa8c74ac86b69a0800000000000000
+      internalID: -6238777640794673208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 717
+        width: 176
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ec0595c6e2900d0800000000000000
+      internalID: -3456180196140331434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 717
+        width: 176
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072292ff8bcdc04c0800000000000000
+      internalID: -4319835255442169232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 717
+        width: 176
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7a2439eed5dd870800000000000000
+      internalID: 8709220533658625970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 717
+        width: 176
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0d67511f3d4ae00800000000000000
+      internalID: 1055201245112225970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 717
+        width: 176
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888ea8a8a53d4f2e0800000000000000
+      internalID: -2092815540995561336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 717
+        width: 176
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fd6698f11fd4e00800000000000000
+      internalID: 1030745007489212213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 381
+        width: 178
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631331bea50854460800000000000000
+      internalID: 7225322305165144374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 381
+        width: 178
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976bcf2cdd2dfad50800000000000000
+      internalID: 6750846216352609913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 381
+        width: 178
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09db407195cfa130800000000000000
+      internalID: 3580297457227782413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 381
+        width: 176
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f570260346b58cd50800000000000000
+      internalID: 6757751726736017247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 381
+        width: 176
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ed0f6eb28d6b4f0800000000000000
+      internalID: -813224999624057281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 381
+        width: 176
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d820dfe1e736eb0800000000000000
+      internalID: -4727796512249967335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 381
+        width: 176
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61986c47a5ac14cf0800000000000000
+      internalID: -269712012810483434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 387
+        width: 170
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808733de77d575650800000000000000
+      internalID: 6221544179897694216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 387
+        width: 170
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1b80b4d561f7a00800000000000000
+      internalID: 756347852368163316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 387
+        width: 170
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576689884e9826440800000000000000
+      internalID: 4927652556933981813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 387
+        width: 170
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48f1effe3a3bf7e0800000000000000
+      internalID: -1730725589538441141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 387
+        width: 168
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0439102188f6b8c70800000000000000
+      internalID: 8974389312674173760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 387
+        width: 169
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20df3cf6c26300960800000000000000
+      internalID: 7566106938464009474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 387
+        width: 171
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cec833702625320800000000000000
+      internalID: 2545204522486918246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 387
+        width: 172
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e7eee3a1ec323f0800000000000000
+      internalID: -926670486187901418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight-idlev0-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 387
+        width: 172
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3cbe8fb657c5380800000000000000
+      internalID: -8981174450285460563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
