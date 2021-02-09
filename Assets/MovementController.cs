@@ -52,7 +52,7 @@ public class MovementController : MonoBehaviour
         {
             Vector2 jumpVelocity = new Vector2(0f, jumpSpeed);
             myBody.velocity += jumpVelocity;
-            myAnimator.SetTrigger("Jump");
+            myAnimator.SetTrigger("Block");
 
         }
     }
