@@ -29,7 +29,7 @@ public class MovementController : MonoBehaviour
     {
 
         Walk();
-        Jump();
+        Block();
 
         
         
@@ -46,12 +46,10 @@ public class MovementController : MonoBehaviour
     }
 
 
-    void Jump()
+    void Block()
     {
         if (CrossPlatformInputManager.GetButtonDown("Jump"))
         {
-            Vector2 jumpVelocity = new Vector2(0f, jumpSpeed);
-            myBody.velocity += jumpVelocity;
             myAnimator.SetTrigger("Block");
 
         }
